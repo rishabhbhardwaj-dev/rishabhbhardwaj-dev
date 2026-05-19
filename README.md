@@ -11,7 +11,7 @@
 ### Languages
 - Python
 - JavaScript
-- C++
+- C
 - SQL
 
 ### Web & Frameworks
