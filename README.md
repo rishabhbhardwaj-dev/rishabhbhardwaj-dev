@@ -42,6 +42,15 @@ Real-time AI desktop assistant with:
 - System automation
 - Neural-interface dashboard
 
+### 🏢 CampusSync ERP
+Enterprise-grade college management system featuring:
+
+- Role-based portals for Admin, Faculty, and Students
+- Full-stack React 19, Node.js, and Prisma ORM architecture
+- Comprehensive attendance, grading, and timetable tracking
+- Secure JWT authentication with MySQL database
+- [Live Demo](https://campus-sync-erp.vercel.app) | [Source Code](https://github.com/rishabhbhardwaj-dev/CampusSyncERP)
+
 ### 🎓 EduSphere
 Full-stack ed-tech platform featuring:
 - Instructor & Student modules
