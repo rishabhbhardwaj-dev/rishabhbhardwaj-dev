@@ -1,6 +1,6 @@
 # Hi, I'm Rishabh Bhardwaj 👋
 
-🎓 BTech CSE Student  
+🎓 B.Tech Computer Science Graduate (2026)  
 💻 Software Developer | AI & Full Stack Enthusiast  
 🚀 Building intelligent systems using Python, MERN & AI technologies  
 
