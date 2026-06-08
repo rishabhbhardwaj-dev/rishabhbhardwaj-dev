@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="./ChatGPT%20Image%20Jun%208,%202026,%2007_49_58%20PM.png" alt="Rishabh Bhardwaj Banner" width="100%">
+</p>
+
 
 # Hi, I'm Rishabh Bhardwaj 👋
 
