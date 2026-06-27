@@ -70,6 +70,15 @@ Enterprise-grade college management system featuring:
 - Secure JWT authentication with MySQL database
 - [Live Demo](https://campus-sync-erp.vercel.app) | [Source Code](https://github.com/rishabhbhardwaj-dev/Jarvis-voice-assistant)
 
+### 🌐 AI & Full Stack Developer Portfolio
+
+Modern developer portfolio showcasing projects, skills, experience, and achievements with a responsive UI and smooth animations.
+
+**Tech Stack:** React • Tailwind CSS • Vite • JavaScript
+
+[![Live Demo](https://img.shields.io/badge/🚀-Live_Demo-blue?style=for-the-badge)](https://rishabh-portfolio-lac.vercel.app/)
+[![Source Code](https://img.shields.io/badge/💻-Source_Code-black?style=for-the-badge)](https://github.com/rishabhbhardwaj-dev/https://github.com/rishabhbhardwaj-dev/rishabh-portfolio)
+
 ### 🎓 EduSphere
 Full-stack ed-tech platform featuring:
 - Instructor & Student modules
