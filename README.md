@@ -5,7 +5,9 @@
   <a href="https://your-portfolio-url.vercel.app">
     <img src="https://img.shields.io/badge/🌐-Portfolio-0A66C2?style=for-the-badge">
   </a>
-  
+  <a href="https://github.com/rishabhbhardwaj-dev">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github">
+  </a>
 # Hi, I'm Rishabh Bhardwaj 👋
 
 🎓 B.Tech Computer Science Graduate (2026)  
