@@ -3,6 +3,7 @@
 </p>
 <p align="center">
   <a href="https://your-portfolio-url.vercel.app">
+    <img src="https://img.shields.io/badge/🌐-Portfolio-0A66C2?style=for-the-badge">
   </a>
   
 # Hi, I'm Rishabh Bhardwaj 👋
