@@ -76,7 +76,7 @@ Full-stack ed-tech platform featuring:
 
 ## 🌐 Connect With Me
 
-LinkedIn: https://www.linkedin.com/in/rishabhbhardwaj-tech/
+- LinkedIn: https://www.linkedin.com/in/rishabhbhardwaj-tech/
 - 🌐Portfolio: https://rishabh-portfolio-lac.vercel.app/
 
 ---
