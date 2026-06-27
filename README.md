@@ -59,6 +59,7 @@ Real-time AI desktop assistant with:
 - Wake word detection
 - System automation
 - Neural-interface dashboard
+- [Source code] (https://github.com/rishabhbhardwaj-dev/Jarvis-voice-assistant)
 
 ### 🏢 CampusSync ERP
 Enterprise-grade college management system featuring:
