@@ -8,7 +8,9 @@
   <a href="https://github.com/rishabhbhardwaj-dev">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github">
   </a>
-# Hi, I'm Rishabh Bhardwaj 👋
+
+  
+  # Hi, I'm Rishabh Bhardwaj 👋
 
 🎓 B.Tech Computer Science Graduate (2026)  
 💻 Software Developer | AI & Full Stack Enthusiast  
