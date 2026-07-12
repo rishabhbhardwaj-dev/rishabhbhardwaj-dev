@@ -68,7 +68,7 @@ Enterprise-grade college management system featuring:
 - Full-stack React 19, Node.js, and Prisma ORM architecture
 - Comprehensive attendance, grading, and timetable tracking
 - Secure JWT authentication with MySQL database
-- [Live Demo](https://campus-sync-erp.vercel.app) | [Source Code](https://github.com/rishabhbhardwaj-dev/Jarvis-voice-assistant)
+- [Live Demo](https://campus-sync-erp.vercel.app) | [Source Code](https://campus-sync-erp.vercel.app/)
 
 ### 🌐 AI & Full Stack Developer Portfolio
 
