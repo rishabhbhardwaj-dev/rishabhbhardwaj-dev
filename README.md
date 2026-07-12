@@ -25,10 +25,15 @@
   
   # Hi, I'm Rishabh Bhardwaj 👋
 
-🎓 B.Tech Computer Science Graduate (2026)  
-💻 Software Developer | AI & Full Stack Enthusiast  
-🚀 Building intelligent systems using Python, MERN & AI technologies  
+🎓 B.Tech Computer Science Graduate (2026)
 
+💻 Full-Stack Developer | AI Application Developer
+
+🚀 Building scalable web applications, AI-powered solutions, and intelligent automation systems
+
+🤖 Passionate about Full-Stack Development, Generative AI, and solving real-world problems
+
+🌱 Currently exploring LLMs, AI Agents, and Cloud Deployment
 ---
 
 ## 🛠️ Tech Stack
