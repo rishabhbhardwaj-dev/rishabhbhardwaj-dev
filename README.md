@@ -113,7 +113,7 @@ Full-stack ed-tech platform featuring:
 
 - 💼LinkedIn: https://www.linkedin.com/in/rishabhbhardwaj-tech/
 - 🌐Portfolio: https://rishabh-portfolio-lac.vercel.app/
-
+- 📧 **Email:** [officialrishabhbhardwaj@gmail.com](mailto:officialrishabhbhardwaj@gmail.com)
 ---
 
 ⭐ Passionate about building impactful software and intelligent applications.
