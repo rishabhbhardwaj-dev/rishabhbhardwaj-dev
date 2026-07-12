@@ -96,6 +96,8 @@ Full-stack ed-tech platform featuring:
 - Razorpay integration
 - AI-powered microservices
 
+[![Source Code](https://img.shields.io/badge/💻-Source_Code-black?style=for-the-badge)](https://github.com/rishabhbhardwaj-dev/Edusphere-learning-platform)
+
 ---
 
 ## 📚 Currently Exploring
