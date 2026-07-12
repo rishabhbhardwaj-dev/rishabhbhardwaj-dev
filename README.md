@@ -59,8 +59,7 @@ Real-time AI desktop assistant with:
 - Wake word detection
 - System automation
 - Neural-interface dashboard
-- 🔗 [Source Code](https://github.com/rishabhbhardwaj-dev/Jarvis-voice-assistant)
-
+[![💻 Source Code](https://img.shields.io/badge/💻-Source_Code-black?style=for-the-badge)](https://github.com/rishabhbhardwaj-dev/Jarvis-voice-assistant)
 ### 🏢 CampusSync ERP
 Enterprise-grade college management system featuring:
 
@@ -68,7 +67,7 @@ Enterprise-grade college management system featuring:
 - Full-stack React 19, Node.js, and Prisma ORM architecture
 - Comprehensive attendance, grading, and timetable tracking
 - Secure JWT authentication with MySQL database
-- [![Live Demo](https://img.shields.io/badge/🚀-Live_Demo-blue?style=for-the-badge)](https://campus-sync-erp.vercel.app)
+ [![Live Demo](https://img.shields.io/badge/🚀-Live_Demo-blue?style=for-the-badge)](https://campus-sync-erp.vercel.app)
   &nbsp;
   [![Source Code](https://img.shields.io/badge/💻-Source_Code-black?style=for-the-badge)](https://github.com/rishabhbhardwaj-dev/CampusSyncERP)
 ### 🌐 AI & Full Stack Developer Portfolio
