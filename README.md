@@ -23,7 +23,7 @@
 </p>
  
   
-  # Hi, I'm Rishabh Bhardwaj 👋
+ ## 👋 Hi, I'm Rishabh Bhardwaj
 
 🎓 B.Tech Computer Science Graduate (2026)
 
@@ -33,7 +33,7 @@
 
 🤖 Passionate about Full-Stack Development, Generative AI, and solving real-world problems
 
-🌱 Currently exploring LLMs, AI Agents, and Cloud Deployment
+🌱 **Currently Exploring:** LLMs, AI Agents & Cloud Deployment
 ---
 
 ## 🛠️ Tech Stack
