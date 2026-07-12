@@ -33,7 +33,7 @@
 
 🤖 Passionate about Full-Stack Development, Generative AI, and solving real-world problems
 
-🌱 **Currently Exploring:** LLMs, AI Agents & Cloud Deployment
+
 ---
 
 ## 🛠️ Tech Stack
