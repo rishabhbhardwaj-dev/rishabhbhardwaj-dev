@@ -53,13 +53,13 @@
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 ### AI & Tools
-- Groq LLMs
-- Speech Recognition
-- Three.js
-- MongoDB Atlas
-- Git & GitHub
-- Vercel
-
+![Groq](https://img.shields.io/badge/Groq-000000?style=for-the-badge)
+![Speech Recognition](https://img.shields.io/badge/Speech_Recognition-6A5ACD?style=for-the-badge)
+![Three.js](https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=threedotjs&logoColor=white)
+![MongoDB Atlas](https://img.shields.io/badge/MongoDB_Atlas-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ---
 
 ## 📌 Featured Projects
