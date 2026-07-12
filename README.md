@@ -59,7 +59,7 @@ Real-time AI desktop assistant with:
 - Wake word detection
 - System automation
 - Neural-interface dashboard
-- [Source Code](https://github.com/rishabhbhardwaj-dev/CampusSyncERP)
+- [![Source Code](https://img.shields.io/badge/💻-Source_Code-black?style=for-the-badge)]
 
 ### 🏢 CampusSync ERP
 Enterprise-grade college management system featuring:
