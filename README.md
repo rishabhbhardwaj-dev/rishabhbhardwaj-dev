@@ -60,6 +60,7 @@ Real-time AI desktop assistant with:
 - System automation
 - Neural-interface dashboard
 - 🔗 [Source Code](https://github.com/rishabhbhardwaj-dev/Jarvis-voice-assistant)
+
 ### 🏢 CampusSync ERP
 Enterprise-grade college management system featuring:
 
@@ -68,9 +69,8 @@ Enterprise-grade college management system featuring:
 - Comprehensive attendance, grading, and timetable tracking
 - Secure JWT authentication with MySQL database
 - [![Live Demo](https://img.shields.io/badge/🚀-Live_Demo-blue?style=for-the-badge)](https://campus-sync-erp.vercel.app)
-
+  &nbsp;
   [![Source Code](https://img.shields.io/badge/💻-Source_Code-black?style=for-the-badge)](https://github.com/rishabhbhardwaj-dev/CampusSyncERP)
-
 ### 🌐 AI & Full Stack Developer Portfolio
 
 Modern developer portfolio showcasing projects, skills, experience, and achievements with a responsive UI and smooth animations.
