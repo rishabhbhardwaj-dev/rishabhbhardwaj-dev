@@ -125,12 +125,7 @@ Full-stack ed-tech platform featuring:
 [![Source Code](https://img.shields.io/badge/💻-Source_Code-black?style=for-the-badge)](https://github.com/rishabhbhardwaj-dev/Edusphere-learning-platform)
 
 ---
-## 📊 GitHub Stats
 
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rishabhbhardwaj-dev&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rishabhbhardwaj-dev&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
 
 ## 📚 Currently Exploring
 
