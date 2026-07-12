@@ -2,17 +2,28 @@
   <img src="./ChatGPT%20Image%20Jun%208,%202026,%2007_49_58%20PM.png" alt="Rishabh Bhardwaj Banner" width="100%">
 </p>
 <p align="center">
-  <a href="https://your-portfolio-url.vercel.app">
+  <a href="https://rishabh-portfolio-lac.vercel.app/">
     <img src="https://img.shields.io/badge/🌐-Portfolio-0A66C2?style=for-the-badge">
   </a>
+
+  &nbsp;&nbsp;&nbsp;&nbsp;
+
   <a href="https://github.com/rishabhbhardwaj-dev">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github">
   </a>
+
+  &nbsp;&nbsp;&nbsp;&nbsp;
+
   <a href="https://www.linkedin.com/in/rishabhbhardwaj-tech/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin">
   </a>
-</p>
 
+  &nbsp;&nbsp;&nbsp;&nbsp;
+
+  <a href="mailto:officialrishabhbhardwaj@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
+</p>
   
  
   
