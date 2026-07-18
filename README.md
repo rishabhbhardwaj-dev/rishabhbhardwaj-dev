@@ -102,7 +102,7 @@ Enterprise-grade college management system featuring:
 - Comprehensive attendance, grading, and timetable tracking
 - Secure JWT authentication with MySQL database
 
-[![Live Demo](https://img.shields.io/badge/🚀-Live_Demo-blue?style=for-the-badge)](https://campus-sync-erp.vercel.app)
+[![Live Demo](https://img.shields.io/badge/🚀-Live_Demo-blue?style=for-the-badge)](https://campus-sync-erp-3p4u.vercel.app)
 [![Source Code](https://img.shields.io/badge/💻-Source_Code-black?style=for-the-badge)](https://github.com/rishabhbhardwaj-dev/CampusSyncERP)
 
 ### 🌐 AI & Full Stack Developer Portfolio
