@@ -88,7 +88,7 @@ Real-time AI desktop assistant with:
 - Conversational AI
 - Wake word detection
 - System automation
-- Neural-interface dashboard
+- Neural-interface dashboard 
 
 <!-- end list -->
 
