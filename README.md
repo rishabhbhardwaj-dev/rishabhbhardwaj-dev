@@ -127,6 +127,17 @@ Full-stack ed-tech platform featuring:
 [![Source Code](https://img.shields.io/badge/💻-Source_Code-black?style=for-the-badge)](https://github.com/rishabhbhardwaj-dev/Edusphere-learning-platform)
 
 ---
+## ⚡ AI Activity Matrix
+
+<p align="center">
+  <img
+    src="https://raw.githubusercontent.com/rishabhbhardwaj-dev/ai-activity-matrix/main/contribution_grid_ai_matrix.svg"
+    width="100%"
+    alt="AI Activity Matrix"
+  />
+</p>
+
+---
 
 
 ## 📚 Currently Exploring
