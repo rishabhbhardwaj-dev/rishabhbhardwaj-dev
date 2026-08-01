@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./header.svg"
+  <img src="./rishabh_github_header.svg"
      alt="Rishabh Bhardwaj Animated Header"
      width="100%">
 </p>
