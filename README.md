@@ -127,7 +127,7 @@ Full-stack ed-tech platform featuring:
 [![Source Code](https://img.shields.io/badge/💻-Source_Code-black?style=for-the-badge)](https://github.com/rishabhbhardwaj-dev/Edusphere-learning-platform)
 
 ---
-## 🚀 Neural Activity
+
 
 <p align="center">
   <img
