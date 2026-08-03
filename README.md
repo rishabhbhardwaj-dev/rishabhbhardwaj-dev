@@ -143,50 +143,57 @@ Modern developer portfolio showcasing projects, skills, experience, and achievem
 
 <table>
 <tr>
-<td align="center" width="180">
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="45"/>
-
-<br><br>
-
-<b>LinkedIn</b>
-
-<br>
+<td align="center" width="240">
 
 <a href="https://www.linkedin.com/in/rishabhbhardwaj-tech/">
-rishabhbhardwaj-tech
+<img src="https://skillicons.dev/icons?i=linkedin" width="55"/>
+</a>
+
+<h3>LinkedIn</h3>
+
+Professional Profile
+
+<br><br>
+
+<a href="https://www.linkedin.com/in/rishabhbhardwaj-tech/">
+<b>Connect →</b>
 </a>
 
 </td>
 
-<td align="center" width="180">
-
-<img src="https://img.icons8.com/fluency/96/domain.png" width="45"/>
-
-<br><br>
-
-<b>Portfolio</b>
-
-<br>
+<td align="center" width="240">
 
 <a href="https://rishabh-portfolio-lac.vercel.app/">
-Visit Website
+<img src="https://img.icons8.com/fluency/96/domain.png" width="55"/>
+</a>
+
+<h3>Portfolio</h3>
+
+See my work
+
+<br><br>
+
+<a href="https://rishabh-portfolio-lac.vercel.app/">
+<b>Visit →</b>
 </a>
 
 </td>
 
-<td align="center" width="180">
+<td align="center" width="240">
 
-<img src="https://img.icons8.com/color/96/gmail-new.png" width="45"/>
+<a href="mailto:officialrishabhbhardwaj@gmail.com">
+<img src="https://img.icons8.com/color/96/gmail-new.png" width="55"/>
+</a>
+
+<h3>Email</h3>
+
+Let's collaborate
 
 <br><br>
 
-<b>Email</b>
-
-<br>
-
 <a href="mailto:officialrishabhbhardwaj@gmail.com">
-Send Mail
+<b>Contact →</b>
 </a>
 
 </td>
