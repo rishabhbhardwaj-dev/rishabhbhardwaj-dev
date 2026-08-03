@@ -134,37 +134,68 @@ Modern developer portfolio showcasing projects, skills, experience, and achievem
 
 ---
 
-## 💻 Terminal
+<h2>🌐 Connect</h2>
 
-```bash
-$ whoami
+<table>
+<tr>
 
-Rishabh Bhardwaj
-
-$ connect
-
-[1] LinkedIn
-[2] Portfolio
-[3] Email
-
-Ready for collaboration.
-```
-
-<p align="center">
-
-<a href="https://www.linkedin.com/in/rishabhbhardwaj-tech">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin"/>
+<td align="center">
+<a href="https://www.linkedin.com/in/rishabhbhardwaj-tech/">
+<img src="https://skillicons.dev/icons?i=linkedin" width="45"/>
 </a>
+</td>
 
-<a href="https://rishabh-portfolio-lac.vercel.app">
-<img src="https://img.shields.io/badge/Portfolio-black?style=flat-square&logo=vercel"/>
+<td align="center">
+<a href="https://rishabh-portfolio-lac.vercel.app/">
+<img src="https://img.icons8.com/fluency/96/domain.png" width="45"/>
 </a>
+</td>
 
+<td align="center">
 <a href="mailto:officialrishabhbhardwaj@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail"/>
+<img src="https://img.icons8.com/color/96/gmail-new.png" width="45"/>
 </a>
+</td>
 
-</p>
+<td align="center">
+<a href="https://github.com/rishabhbhardwaj-dev">
+<img src="https://skillicons.dev/icons?i=github" width="45"/>
+</a>
+</td>
+
+<td align="center">
+<a href="YOUR_LEETCODE_URL">
+<img src="https://cdn.simpleicons.org/leetcode/FFA116" width="45"/>
+</a>
+</td>
+
+<td align="center">
+<a href="YOUR_X_OR_TWITTER">
+<img src="https://cdn.simpleicons.org/x/ffffff" width="45"/>
+</a>
+</td>
+
+<td align="center">
+<a href="YOUR_RESUME_URL">
+📄
+</a>
+</td>
+
+</tr>
+
+<tr>
+
+<td align="center"><b>LinkedIn</b></td>
+<td align="center"><b>Portfolio</b></td>
+<td align="center"><b>Email</b></td>
+<td align="center"><b>GitHub</b></td>
+<td align="center"><b>LeetCode</b></td>
+<td align="center"><b>X</b></td>
+<td align="center"><b>Resume</b></td>
+
+</tr>
+
+</table>
 ---
 
 ⭐ Passionate about building impactful software and intelligent applications.
