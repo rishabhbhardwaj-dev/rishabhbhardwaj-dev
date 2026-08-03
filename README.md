@@ -116,16 +116,6 @@ Modern developer portfolio showcasing projects, skills, experience, and achievem
 [![Live Demo](https://img.shields.io/badge/🚀-Live_Demo-blue?style=for-the-badge)](https://rishabh-portfolio-lac.vercel.app/)
 [![Source Code](https://img.shields.io/badge/💻-Source_Code-black?style=for-the-badge)](https://github.com/rishabhbhardwaj-dev/rishabh-portfolio)
 
-### 🎓 EduSphere
-Full-stack ed-tech platform featuring:
-- Instructor & Student modules
-- JWT Authentication
-- Course management
-- Razorpay integration
-- AI-powered microservices
-
-[![Source Code](https://img.shields.io/badge/💻-Source_Code-black?style=for-the-badge)](https://github.com/rishabhbhardwaj-dev/Edusphere-learning-platform)
-
 ---
 
 
