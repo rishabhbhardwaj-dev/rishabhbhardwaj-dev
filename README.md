@@ -15,7 +15,7 @@
 
 <td align="center">
 <a href="https://rishabh-portfolio-lac.vercel.app/">
-<img src="https://img.icons8.com/fluency/48/domain.png" width="40"/>
+<img src="https://img.icons8.com/fluency/48/briefcase.png" width="40"/>
 </a>
 </td>
 
