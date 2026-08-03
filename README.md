@@ -139,67 +139,33 @@ Modern developer portfolio showcasing projects, skills, experience, and achievem
 
 ---
 
-<h2>🌐 Connect With Me</h2>
+## 🤖 Communication Console
 
-<table>
-<tr>
+```bash
+STATUS
 
-<td align="center" width="240">
+🟢 LinkedIn     CONNECTED
 
-<a href="https://www.linkedin.com/in/rishabhbhardwaj-tech/">
-<img src="https://skillicons.dev/icons?i=linkedin" width="55"/>
+🟢 Portfolio    LIVE
+
+🟢 Email        AVAILABLE
+```
+
+<p align="center">
+
+<a href="https://www.linkedin.com/in/rishabhbhardwaj-tech">
+<img src="https://img.shields.io/badge/CONNECT-LinkedIn-0A66C2?style=for-the-badge"/>
 </a>
 
-<h3>LinkedIn</h3>
-
-Professional Profile
-
-<br><br>
-
-<a href="https://www.linkedin.com/in/rishabhbhardwaj-tech/">
-<b>Connect →</b>
+<a href="https://rishabh-portfolio-lac.vercel.app">
+<img src="https://img.shields.io/badge/VISIT-Portfolio-111827?style=for-the-badge"/>
 </a>
-
-</td>
-
-<td align="center" width="240">
-
-<a href="https://rishabh-portfolio-lac.vercel.app/">
-<img src="https://img.icons8.com/fluency/96/domain.png" width="55"/>
-</a>
-
-<h3>Portfolio</h3>
-
-See my work
-
-<br><br>
-
-<a href="https://rishabh-portfolio-lac.vercel.app/">
-<b>Visit →</b>
-</a>
-
-</td>
-
-<td align="center" width="240">
 
 <a href="mailto:officialrishabhbhardwaj@gmail.com">
-<img src="https://img.icons8.com/color/96/gmail-new.png" width="55"/>
+<img src="https://img.shields.io/badge/CONTACT-Gmail-EA4335?style=for-the-badge"/>
 </a>
 
-<h3>Email</h3>
-
-Let's collaborate
-
-<br><br>
-
-<a href="mailto:officialrishabhbhardwaj@gmail.com">
-<b>Contact →</b>
-</a>
-
-</td>
-
-</tr>
-</table>
+</p>
 ---
 
 ⭐ Passionate about building impactful software and intelligent applications.
