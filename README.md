@@ -143,10 +143,9 @@ Modern developer portfolio showcasing projects, skills, experience, and achievem
 
 <table>
 <tr>
+<td align="center" width="180">
 
-<td align="center" width="220">
-
-<img src="https://skillicons.dev/icons?i=linkedin" width="60"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="45"/>
 
 <br><br>
 
@@ -154,13 +153,15 @@ Modern developer portfolio showcasing projects, skills, experience, and achievem
 
 <br>
 
-<a href="https://www.linkedin.com/in/rishabhbhardwaj-tech/">Connect</a>
+<a href="https://www.linkedin.com/in/rishabhbhardwaj-tech/">
+rishabhbhardwaj-tech
+</a>
 
 </td>
 
-<td align="center" width="220">
+<td align="center" width="180">
 
-<img src="https://img.icons8.com/fluency/96/domain.png" width="60"/>
+<img src="https://img.icons8.com/fluency/96/domain.png" width="45"/>
 
 <br><br>
 
@@ -168,13 +169,15 @@ Modern developer portfolio showcasing projects, skills, experience, and achievem
 
 <br>
 
-<a href="https://rishabh-portfolio-lac.vercel.app/">Visit</a>
+<a href="https://rishabh-portfolio-lac.vercel.app/">
+Visit Website
+</a>
 
 </td>
 
-<td align="center" width="220">
+<td align="center" width="180">
 
-<img src="https://img.icons8.com/color/96/gmail-new.png" width="60"/>
+<img src="https://img.icons8.com/color/96/gmail-new.png" width="45"/>
 
 <br><br>
 
@@ -182,7 +185,9 @@ Modern developer portfolio showcasing projects, skills, experience, and achievem
 
 <br>
 
-<a href="mailto:officialrishabhbhardwaj@gmail.com">Contact</a>
+<a href="mailto:officialrishabhbhardwaj@gmail.com">
+Send Mail
+</a>
 
 </td>
 
