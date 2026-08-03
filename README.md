@@ -134,30 +134,34 @@ Modern developer portfolio showcasing projects, skills, experience, and achievem
 
 ---
 
-## 🤖 Communication Console
+## 💻 Terminal
 
 ```bash
-STATUS
+$ whoami
 
-🟢 LinkedIn     CONNECTED
+Rishabh Bhardwaj
 
-🟢 Portfolio    LIVE
+$ connect
 
-🟢 Email        AVAILABLE
+[1] LinkedIn
+[2] Portfolio
+[3] Email
+
+Ready for collaboration.
 ```
 
 <p align="center">
 
 <a href="https://www.linkedin.com/in/rishabhbhardwaj-tech">
-<img src="https://img.shields.io/badge/CONNECT-LinkedIn-0A66C2?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin"/>
 </a>
 
 <a href="https://rishabh-portfolio-lac.vercel.app">
-<img src="https://img.shields.io/badge/VISIT-Portfolio-111827?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Portfolio-black?style=flat-square&logo=vercel"/>
 </a>
 
 <a href="mailto:officialrishabhbhardwaj@gmail.com">
-<img src="https://img.shields.io/badge/CONTACT-Gmail-EA4335?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail"/>
 </a>
 
 </p>
