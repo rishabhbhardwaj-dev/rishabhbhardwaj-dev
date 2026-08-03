@@ -8,9 +8,39 @@
 
 
 
-| <a href="https://rishabh-portfolio-lac.vercel.app"><img src="https://img.icons8.com/fluency/48/domain.png" width="34"></a> | <a href="https://github.com/rishabhbhardwaj-dev"><img src="https://skillicons.dev/icons?i=github" width="34"></a> | <a href="https://www.linkedin.com/in/rishabhbhardwaj-tech/"><img src="https://skillicons.dev/icons?i=linkedin" width="34"></a> | <a href="mailto:officialrishabhbhardwaj@gmail.com"><img src="https://img.icons8.com/color/48/gmail-new.png" width="34"></a> |
-|:--:|:--:|:--:|:--:|
+<div align="center">
 
+<table>
+<tr>
+
+<td align="center">
+<a href="https://rishabh-portfolio-lac.vercel.app/">
+<img src="https://img.icons8.com/fluency/48/domain.png" width="40"/>
+</a>
+</td>
+
+<td align="center">
+<a href="https://github.com/rishabhbhardwaj-dev">
+<img src="https://skillicons.dev/icons?i=github" width="40"/>
+</a>
+</td>
+
+<td align="center">
+<a href="https://www.linkedin.com/in/rishabhbhardwaj-tech/">
+<img src="https://skillicons.dev/icons?i=linkedin" width="40"/>
+</a>
+</td>
+
+<td align="center">
+<a href="mailto:officialrishabhbhardwaj@gmail.com">
+<img src="https://img.icons8.com/color/48/gmail-new.png" width="40"/>
+</a>
+</td>
+
+</tr>
+</table>
+
+</div>
  
  ## 👋 Hi, I'm Rishabh Bhardwaj
 
