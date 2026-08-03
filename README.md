@@ -1,8 +1,11 @@
 <p align="center">
-  <img src="./rishabh_github_header.svg"
-     alt="Rishabh Bhardwaj Animated Header"
-     width="100%">
+  <img
+    src="https://raw.githubusercontent.com/rishabhbhardwaj-dev/ai-activity-matrix/main/contribution_grid_ai_matrix.svg"
+    width="100%"
+    alt="AI Activity Matrix"
+  />
 </p>
+
 <p align="center">
   <a href="https://rishabh-portfolio-lac.vercel.app/">
     <img src="https://img.shields.io/badge/🌐-Portfolio-0A66C2?style=for-the-badge">
