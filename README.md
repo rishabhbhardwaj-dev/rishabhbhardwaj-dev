@@ -44,7 +44,7 @@
 
 
  
- ## 👋 Hi, I'm 𝕽𝖎𝖘𝖍𝖆𝖇𝖍 𝕭𝖍𝖆𝖗𝖉𝖜𝖆𝖏
+ ## 👋 Hi, I'm ऋ⚡𝖍𝖆𝖇𝖍 𝕭𝖍𝖆𝖗𝖉𝖜𝖆𝖏
 
 🎓 B.Tech Computer Science Graduate (2026)
 
