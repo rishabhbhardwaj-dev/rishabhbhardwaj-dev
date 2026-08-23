@@ -113,7 +113,8 @@ Real-time AI desktop assistant with:
 <!-- end list -->
 
 <a href="https://github.com/rishabhbhardwaj-dev/Jarvis-voice-assistant">
-  <img src="https://img.shields.io/badge/SOURCE_CODE-000000?style=for-the-badge&logo=github&logoColor=white" alt="Source Code on GitHub"/>
+  <img src="https://img.shields.io/badge/💻_SOURCE_CODE-000000?style=for-the-badge" alt="Source Code"/>
+  <img src="https://cdn.simpleicons.org/github/white" width="28" height="28" alt="GitHub"/>
 </a>
 
 
