@@ -112,8 +112,8 @@ Real-time AI desktop assistant with:
 
 <!-- end list -->
 
-<a href="rishabhbhardwaj-dev/Jarvis-voice-assistant: Real-time AI desktop assistant with voice automation and conversational AI    " target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="32" height="32" alt="GitHub Repository" />
+<a href="https://github.com/rishabhbhardwaj-dev/Jarvis-voice-assistant">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="35" alt="GitHub Repository"/>
 </a>
 
 
