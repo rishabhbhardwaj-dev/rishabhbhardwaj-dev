@@ -135,10 +135,7 @@ Modern developer portfolio showcasing projects, skills, experience, and achievem
 
 **Tech Stack:** React • Tailwind CSS • Vite • JavaScript
 
-[![🚀 Live Demo](https://img.shields.io/badge/🚀_LIVE_DEMO-0078D4?style=for-the-badge)](https://rishabh-portfolio-lac.vercel.app/)
-
-[![💻 Source Code](https://img.shields.io/badge/💻_SOURCE_CODE-black?style=for-the-badge)](https://github.com/rishabhbhardwaj-dev/rishabh-portfolio)
-
+[![🚀 Live Demo](https://img.shields.io/badge/🚀_LIVE_DEMO-0078D4?style=for-the-badge)](https://rishabh-portfolio-lac.vercel.app/) [![💻 Source Code](https://img.shields.io/badge/💻_SOURCE_CODE-black?style=for-the-badge)](https://github.com/rishabhbhardwaj-dev/rishabh-portfolio)
 
 ---
 
