@@ -136,15 +136,12 @@ Modern developer portfolio showcasing projects, skills, experience, and achievem
 **Tech Stack:** React • Tailwind CSS • Vite • JavaScript
 
 <a href="https://rishabh-portfolio-lac.vercel.app/" target="_blank">
-  <img src="https://img.shields.io/badge/LIVE_DEMO-0078D4?style=for-the-badge" alt="Live Demo"/>
-  <img src="https://cdn.simpleicons.org/vercel/white" width="35" height="35" alt="Live Demo"/>
+  <img src="https://cdn.simpleicons.org/vercel/white" width="35" alt="Live Demo"/>
 </a>
 
 <a href="https://github.com/rishabhbhardwaj-dev/rishabh-portfolio" target="_blank">
-  <img src="https://img.shields.io/badge/SOURCE_CODE-000000?style=for-the-badge" alt="Source Code"/>
-  <img src="https://cdn.simpleicons.org/github/white" width="35" height="35" alt="GitHub"/>
+  <img src="https://cdn.simpleicons.org/github/white" width="35" alt="GitHub"/>
 </a>
----
 
 
 ---
