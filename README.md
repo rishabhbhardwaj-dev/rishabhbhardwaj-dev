@@ -141,14 +141,7 @@ Modern developer portfolio showcasing projects, skills, experience, and achievem
 ---
 
 
-## 📚 Currently Exploring
 
-- Advanced AI Integrations
-- System Design
-- Scalable Backend Architectures
-- Full Stack Development
-
----
 
 <h2>🌐 Connect</h2>
 
