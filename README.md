@@ -1,39 +1,7 @@
 
 
 
-<div align="center">
 
-<table>
-<tr>
-
-<td align="center">
-<a href="https://rishabh-portfolio-lac.vercel.app/">
-<img src="https://img.icons8.com/fluency/48/briefcase.png" width="34"/>
-</a>
-</td>
-
-<td align="center">
-<a href="https://github.com/rishabhbhardwaj-dev">
-<img src="https://skillicons.dev/icons?i=github" width="34"/>
-</a>
-</td>
-
-<td align="center">
-<a href="https://www.linkedin.com/in/rishabhbhardwaj-tech/">
-<img src="https://skillicons.dev/icons?i=linkedin" width="34"/>
-</a>
-</td>
-
-<td align="center">
-<a href="mailto:officialrishabhbhardwaj@gmail.com">
-<img src="https://img.icons8.com/color/48/gmail-new.png" width="34"/>
-</a>
-</td>
-
-</tr>
-</table>
-
-</div>
 
 
 <table width="100%" border="0">
