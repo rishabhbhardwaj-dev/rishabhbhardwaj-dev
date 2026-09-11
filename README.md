@@ -20,7 +20,7 @@
 </a>
 </td>
 
-<td>&nbsp;&nbsp;&nbsp;</td>
+<td>&nbsp;&nbsp;</td>
 
 <td>
 <a href="https://github.com/rishabhbhardwaj-dev">
@@ -28,7 +28,7 @@
 </a>
 </td>
 
-<td>&nbsp;&nbsp;&nbsp;</td>
+<td>&nbsp;&nbsp;</td>
 
 <td>
 <a href="https://www.linkedin.com/in/rishabhbhardwaj-tech/">
@@ -36,7 +36,7 @@
 </a>
 </td>
 
-<td>&nbsp;&nbsp;&nbsp;</td>
+<td>&nbsp;&nbsp;</td>
 
 <td>
 <a href="mailto:officialrishabhbhardwaj@gmail.com">
