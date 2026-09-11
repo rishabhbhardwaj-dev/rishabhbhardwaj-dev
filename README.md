@@ -3,7 +3,7 @@
 
 <td width="75%" valign="middle">
 
-<h2>👋 Hi, I'm Rishabh Bhardwaj </h2>
+<h2>👋 Hi, I'm <i>𝑹𝒊𝒔𝒉𝒂𝒃𝒉 𝒃𝒉𝒂𝒓𝒅𝒘𝒂𝒋</i></h2>
 
 <p><strong>Full-Stack Developer | AI Application Developer</strong></p>
 
@@ -42,11 +42,6 @@
 <a href="mailto:officialrishabhbhardwaj@gmail.com">
 <img src="https://img.icons8.com/color/48/gmail-new.png" width="30" alt="Email"/>
 </a>
-</td>
-
-</tr>
-</table>
-
 </td>
 
 </tr>
