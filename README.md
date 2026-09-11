@@ -36,23 +36,24 @@
 </div>
 
 
-<table>
+<table width="100%">
 <tr>
-<td width="70%" valign="middle">
+<td>
 
-## 👋 Hi, I'm 𝑹𝒊𝒔𝒉𝒂𝒃𝒉 𝒃𝒉𝒂𝒓𝒅𝒘𝒂𝒋
+<img
+  src="https://raw.githubusercontent.com/rishabhbhardwaj-dev/ai-activity-matrix/main/Rishabh_sw.jpeg"
+  width="180"
+  align="right"
+  alt="Rishabh Bhardwaj"
+/>
 
-**Full-Stack Developer | AI Application Developer**
+<p><strong>👋 Hi, I'm <i>𝑹𝒊𝒔𝒉𝒂𝒃𝒉 𝒃𝒉𝒂𝒓𝒅𝒘𝒂𝒋</i></strong></p>
 
-I build web applications and AI-powered solutions focused on solving real-world problems.
+<p><strong>Full-Stack Developer | AI Application Developer</strong></p>
 
-🎓 B.Tech CSE Graduate (2026)
+<p>I build web applications and AI-powered solutions focused on solving real-world problems.</p>
 
-</td>
-
-<td width="30%" align="right" valign="middle">
-
-<img src="https://raw.githubusercontent.com/rishabhbhardwaj-dev/ai-activity-matrix/main/Rishabh_sw.jpeg" width="180" alt="Rishabh Bhardwaj"/>
+<p>🎓 B.Tech CSE Graduate (2026)</p>
 
 </td>
 </tr>
