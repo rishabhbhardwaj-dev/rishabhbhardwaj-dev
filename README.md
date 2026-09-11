@@ -50,7 +50,7 @@ I build web applications and AI-powered solutions focused on solving real-world 
 
 </td>
 
-<td width="30%" align="right" valign="middle">
+<td width="30%" align="center">
 
 <img src="https://raw.githubusercontent.com/rishabhbhardwaj-dev/ai-activity-matrix/main/Rishabh_sw.jpeg" width="180" alt="Rishabh Bhardwaj"/>
 
