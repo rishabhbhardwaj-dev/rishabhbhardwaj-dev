@@ -44,13 +44,27 @@
 
 
  
-## 👋 Hi, I'm 𝑹𝒊𝒔𝒉𝒂𝒃𝒉 𝑩𝒉𝒂𝒓𝒅𝒘𝒂𝒋
+<table>
+<tr>
+<td width="70%" valign="middle">
+
+## 👋 Hi, I'm 𝑹𝒊𝒔𝒉𝒂𝒃𝒉 𝒃𝒉𝒂𝒓𝒅𝒘𝒂𝒋
 
 **Full-Stack Developer | AI Application Developer**
 
 I build web applications and AI-powered solutions focused on solving real-world problems.
 
 🎓 B.Tech CSE Graduate (2026)
+
+</td>
+
+<td width="30%" align="center">
+
+<img src="https://raw.githubusercontent.com/rishabhbhardwaj-dev/ai-activity-matrix/main/Rishabh_sw.jpeg" width="180" alt="Rishabh Bhardwaj"/>
+
+</td>
+</tr>
+</table>
 
 
 ---
