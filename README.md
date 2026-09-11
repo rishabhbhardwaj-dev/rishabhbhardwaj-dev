@@ -11,17 +11,56 @@
 
 <p>🎓 B.Tech CSE Graduate (2026)</p>
 
-<div align="left">
+<table border="0">
+<tr>
 
-<a href="https://rishabh-portfolio-lac.vercel.app/"><img src="https://img.icons8.com/fluency/48/briefcase.png" width="30" alt="Portfolio"></a>
-&#8195;&#8195;
-<a href="https://github.com/rishabhbhardwaj-dev"><img src="https://skillicons.dev/icons?i=github" width="30" alt="GitHub"></a>
-&#8195;&#8195;
-<a href="https://www.linkedin.com/in/rishabhbhardwaj-tech/"><img src="https://skillicons.dev/icons?i=linkedin" width="30" alt="LinkedIn"></a>
-&#8195;&#8195;
-<a href="mailto:officialrishabhbhardwaj@gmail.com"><img src="https://img.icons8.com/color/48/gmail-new.png" width="30" alt="Email"></a>
+<td>
+<a href="https://rishabh-portfolio-lac.vercel.app/">
+<img src="https://img.icons8.com/fluency/48/briefcase.png" width="30" alt="Portfolio"/>
+</a>
+</td>
 
-</div>
+<td>&nbsp;&nbsp;&nbsp;</td>
+
+<td>
+<a href="https://github.com/rishabhbhardwaj-dev">
+<img src="https://skillicons.dev/icons?i=github" width="30" alt="GitHub"/>
+</a>
+</td>
+
+<td>&nbsp;&nbsp;&nbsp;</td>
+
+<td>
+<a href="https://www.linkedin.com/in/rishabhbhardwaj-tech/">
+<img src="https://skillicons.dev/icons?i=linkedin" width="30" alt="LinkedIn"/>
+</a>
+</td>
+
+<td>&nbsp;&nbsp;&nbsp;</td>
+
+<td>
+<a href="mailto:officialrishabhbhardwaj@gmail.com">
+<img src="https://img.icons8.com/color/48/gmail-new.png" width="30" alt="Email"/>
+</a>
+</td>
+
+</tr>
+</table>
+
+</td>
+
+<td width="25%" align="right" valign="middle">
+
+<img
+  src="https://raw.githubusercontent.com/rishabhbhardwaj-dev/ai-activity-matrix/main/Rishabh_sw.jpeg"
+  width="180"
+  alt="Rishabh Bhardwaj"
+/>
+
+</td>
+
+</tr>
+</table>
 
 ## 🛠️ Tech Stack
 
