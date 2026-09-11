@@ -36,18 +36,12 @@
 </div>
 
 
-<table width="100%">
+<table width="100%" border="0">
 <tr>
-<td>
 
-<img
-  src="https://raw.githubusercontent.com/rishabhbhardwaj-dev/ai-activity-matrix/main/Rishabh_sw.jpeg"
-  width="180"
-  align="right"
-  alt="Rishabh Bhardwaj"
-/>
+<td width="75%" valign="middle" border="0">
 
-<p><strong>👋 Hi, I'm <i>𝑹𝒊𝒔𝒉𝒂𝒃𝒉 𝒃𝒉𝒂𝒓𝒅𝒘𝒂𝒋</i></strong></p>
+<h2>👋 Hi, I'm <i>𝑹𝒊𝒔𝒉𝒂𝒃𝒉 𝒃𝒉𝒂𝒓𝒅𝒘𝒂𝒋</i></h2>
 
 <p><strong>Full-Stack Developer | AI Application Developer</strong></p>
 
@@ -56,10 +50,19 @@
 <p>🎓 B.Tech CSE Graduate (2026)</p>
 
 </td>
+
+<td width="25%" align="right" valign="middle" border="0">
+
+<img
+  src="https://raw.githubusercontent.com/rishabhbhardwaj-dev/ai-activity-matrix/main/Rishabh_sw.jpeg"
+  width="180"
+  alt="Rishabh Bhardwaj"
+/>
+
+</td>
+
 </tr>
 </table>
-
----
 
 ## 🛠️ Tech Stack
 
