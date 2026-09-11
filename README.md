@@ -1,13 +1,7 @@
-
-
-
-
-
-
 <table width="100%" border="0">
 <tr>
 
-<td width="75%" valign="middle" border="0">
+<td width="75%" valign="middle">
 
 <h2>👋 Hi, I'm <i>𝑹𝒊𝒔𝒉𝒂𝒃𝒉 𝒃𝒉𝒂𝒓𝒅𝒘𝒂𝒋</i></h2>
 
@@ -17,9 +11,27 @@
 
 <p>🎓 B.Tech CSE Graduate (2026)</p>
 
+<p>
+<a href="https://rishabh-portfolio-lac.vercel.app/">
+<img src="https://img.icons8.com/fluency/48/briefcase.png" width="30" alt="Portfolio"/>
+</a>&nbsp;&nbsp;
+
+<a href="https://github.com/rishabhbhardwaj-dev">
+<img src="https://skillicons.dev/icons?i=github" width="30" alt="GitHub"/>
+</a>&nbsp;&nbsp;
+
+<a href="https://www.linkedin.com/in/rishabhbhardwaj-tech/">
+<img src="https://skillicons.dev/icons?i=linkedin" width="30" alt="LinkedIn"/>
+</a>&nbsp;&nbsp;
+
+<a href="mailto:officialrishabhbhardwaj@gmail.com">
+<img src="https://img.icons8.com/color/48/gmail-new.png" width="30" alt="Email"/>
+</a>
+</p>
+
 </td>
 
-<td width="25%" align="right" valign="middle" border="0">
+<td width="25%" align="right" valign="middle">
 
 <img
   src="https://raw.githubusercontent.com/rishabhbhardwaj-dev/ai-activity-matrix/main/Rishabh_sw.jpeg"
