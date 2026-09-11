@@ -44,15 +44,13 @@
 
 
  
- ## 👋 Hi, I'm 𝑹𝒊𝒔𝒉𝒂𝒃𝒉 𝑩𝒉𝒂𝒓𝒅𝒘𝒂𝒋
+## 👋 Hi, I'm 𝑹𝒊𝒔𝒉𝒂𝒃𝒉 𝑩𝒉𝒂𝒓𝒅𝒘𝒂𝒋
 
-🎓 B.Tech Computer Science Graduate (2026)
+**Full-Stack Developer | AI Application Developer**
 
-💻 Full-Stack Developer | AI Application Developer
+I build web applications and AI-powered solutions focused on solving real-world problems.
 
-🚀 Building scalable web applications, AI-powered solutions, and intelligent automation systems
-
-🤖 Passionate about Full-Stack Development, Generative AI, and solving real-world problems
+🎓 B.Tech CSE Graduate (2026)
 
 
 ---
