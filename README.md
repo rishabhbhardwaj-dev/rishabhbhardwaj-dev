@@ -38,7 +38,7 @@
 
 <table width="100%">
 <tr>
-<td width="100%" align="left" valign="middle">
+<td>
 
 <img
   src="https://raw.githubusercontent.com/rishabhbhardwaj-dev/ai-activity-matrix/main/Rishabh_sw.jpeg"
@@ -47,7 +47,7 @@
   alt="Rishabh Bhardwaj"
 />
 
-<h2>👋 Hi, I'm <i>𝑹𝒊𝒔𝒉𝒂𝒃𝒉 𝒃𝒉𝒂𝒓𝒅𝒘𝒂𝒋</i></h2>
+<p><strong>👋 Hi, I'm <i>𝑹𝒊𝒔𝒉𝒂𝒃𝒉 𝒃𝒉𝒂𝒓𝒅𝒘𝒂𝒋</i></strong></p>
 
 <p><strong>Full-Stack Developer | AI Application Developer</strong></p>
 
