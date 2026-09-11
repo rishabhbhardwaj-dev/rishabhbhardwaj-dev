@@ -36,11 +36,9 @@
 </div>
 
 
-<table width="100%">
+<table>
 <tr>
-<td>
-
-<img src="https://raw.githubusercontent.com/rishabhbhardwaj-dev/ai-activity-matrix/main/Rishabh_sw.jpeg" width="180" align="right" alt="Rishabh Bhardwaj"/>
+<td width="70%" valign="middle">
 
 ## 👋 Hi, I'm 𝑹𝒊𝒔𝒉𝒂𝒃𝒉 𝒃𝒉𝒂𝒓𝒅𝒘𝒂𝒋
 
@@ -49,6 +47,12 @@
 I build web applications and AI-powered solutions focused on solving real-world problems.
 
 🎓 B.Tech CSE Graduate (2026)
+
+</td>
+
+<td width="30%" align="right" valign="middle">
+
+<img src="https://raw.githubusercontent.com/rishabhbhardwaj-dev/ai-activity-matrix/main/Rishabh_sw.jpeg" width="180" alt="Rishabh Bhardwaj"/>
 
 </td>
 </tr>
