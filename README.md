@@ -1,30 +1,51 @@
-<table width="100%">
+<p align="center">
+  <img
+    src="https://raw.githubusercontent.com/rishabhbhardwaj-dev/ai-activity-matrix/main/contribution_grid_ai_matrix.svg"
+    width="100%"
+    alt="AI Activity Matrix"
+  />
+</p>
 
+
+
+<div align="center">
+
+<table>
 <tr>
-<td colspan="2" align="center">
 
+<td align="center">
 <a href="https://rishabh-portfolio-lac.vercel.app/">
-<img src="https://img.icons8.com/fluency/48/briefcase.png" width="34" alt="Portfolio"/>
-</a>&nbsp;&nbsp;
-
-<a href="https://github.com/rishabhbhardwaj-dev">
-<img src="https://skillicons.dev/icons?i=github" width="34" alt="GitHub"/>
-</a>&nbsp;&nbsp;
-
-<a href="https://www.linkedin.com/in/rishabhbhardwaj-tech/">
-<img src="https://skillicons.dev/icons?i=linkedin" width="34" alt="LinkedIn"/>
-</a>&nbsp;&nbsp;
-
-<a href="mailto:officialrishabhbhardwaj@gmail.com">
-<img src="https://img.icons8.com/color/48/gmail-new.png" width="34" alt="Email"/>
+<img src="https://img.icons8.com/fluency/48/briefcase.png" width="34"/>
 </a>
-
 </td>
+
+<td align="center">
+<a href="https://github.com/rishabhbhardwaj-dev">
+<img src="https://skillicons.dev/icons?i=github" width="34"/>
+</a>
+</td>
+
+<td align="center">
+<a href="https://www.linkedin.com/in/rishabhbhardwaj-tech/">
+<img src="https://skillicons.dev/icons?i=linkedin" width="34"/>
+</a>
+</td>
+
+<td align="center">
+<a href="mailto:officialrishabhbhardwaj@gmail.com">
+<img src="https://img.icons8.com/color/48/gmail-new.png" width="34"/>
+</a>
+</td>
+
 </tr>
+</table>
 
+</div>
+
+
+<table>
 <tr>
-
-<td width="78%" valign="middle">
+<td width="70%" valign="middle">
 
 ## 👋 Hi, I'm 𝑹𝒊𝒔𝒉𝒂𝒃𝒉 𝒃𝒉𝒂𝒓𝒅𝒘𝒂𝒋
 
@@ -36,15 +57,14 @@ I build web applications and AI-powered solutions focused on solving real-world 
 
 </td>
 
-<td width="22%" align="right" valign="middle">
+<td width="30%" align="center">
 
-<img src="https://raw.githubusercontent.com/rishabhbhardwaj-dev/ai-activity-matrix/main/Rishabh_sw.jpeg" width="170" alt="Rishabh Bhardwaj"/>
+<img src="https://raw.githubusercontent.com/rishabhbhardwaj-dev/ai-activity-matrix/main/Rishabh_sw.jpeg" width="180" alt="Rishabh Bhardwaj"/>
 
 </td>
-
 </tr>
-
 </table>
+this is the old current one, i have not copied the one yet that you gave me
 
 ---
 
