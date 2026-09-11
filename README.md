@@ -3,7 +3,7 @@
 
 <td width="75%" valign="middle">
 
-<h2>👋 Hi, I'm <b>Rishabh Bhardwaj </b></h2>
+<h2>👋 Hi, I'm Rishabh Bhardwaj </h2>
 
 <p><strong>Full-Stack Developer | AI Application Developer</strong></p>
 
