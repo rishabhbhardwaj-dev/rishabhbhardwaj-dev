@@ -8,6 +8,9 @@
 
 
 
+![Profile Views](https://komarev.com/ghpvc/?username=rishabhbhardwaj-dev&style=for-the-badge&color=blue)
+
+
 
 ## 🌐 Socials
 
