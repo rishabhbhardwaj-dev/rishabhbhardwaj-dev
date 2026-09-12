@@ -8,11 +8,9 @@
 
 ## 👨‍💻 About Me
 
-I'm a **B.Tech CSE graduate** and **Full-Stack & AI Application Developer** focused on building practical software that solves real-world problems.
+**Full-Stack & AI Application Developer** with a B.Tech in CSE, passionate about turning ideas into practical products.
 
-I enjoy working across the stack — from **React frontends and Node.js/Python backends to databases and AI integrations**.
-
-Currently exploring **LLMs, AI-powered applications, intelligent automation, and scalable backend systems** while continuously improving my engineering skills.
+I enjoy building across the stack with **React, Node.js, Python, and AI**, while constantly learning and exploring better ways to engineer software.
 
 ## 🌐 Socials
 
