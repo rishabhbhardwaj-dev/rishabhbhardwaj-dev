@@ -102,89 +102,47 @@
 
 
 
-## 🚀 Projects
+##  Featured Projects
 
-<table>
-<tr>
-<th>Project</th>
-<th>GitHub</th>
-<th>Live Demo</th>
-</tr>
+###  JARVIS AI
 
-<tr>
-<td>
+Real-time AI desktop assistant with:
 
-<strong>JARVIS AI</strong>
+- Voice command automation
+- Conversational AI
+- Wake word detection
+- System automation
+- Neural-interface dashboard 
 
-<ul>
-<li>🎙️ Voice-activated desktop assistant with wake-word detection</li>
-<li>🧠 Groq AI-powered conversational and screen-aware responses</li>
-<li>🌐 Real-time Three.js neural interface with Flask + SSE</li>
-</ul>
+<!-- end list -->
 
-</td>
-
-<td align="center">
 <a href="https://github.com/rishabhbhardwaj-dev/Jarvis-voice-assistant">
-<img src="https://skillicons.dev/icons?i=github" width="28" alt="GitHub"/>
+  <img src="https://cdn.simpleicons.org/github/white" width="38" height="38" alt="GitHub Repository"/>
 </a>
-</td>
 
-<td align="center">—</td>
-</tr>
 
-<tr>
-<td>
+###  CampusSync ERP
 
-<strong>CampusSync ERP</strong>
+Enterprise-grade college management system featuring:
 
-<ul>
-<li>🎓 Full-stack college management system with role-based portals</li>
-<li>🔐 JWT authentication and secure access control</li>
-<li>📊 Attendance, grading, fees, notices, and analytics</li>
-</ul>
+- Role-based portals for Admin, Faculty, and Students
+- Full-stack React 19, Node.js, and Prisma ORM architecture
+- Comprehensive attendance, grading, and timetable tracking
+- Secure JWT authentication with MySQL database
 
-</td>
+[![Live Demo](https://img.shields.io/badge/🚀-Live_Demo-blue?style=for-the-badge)](https://campus-sync-erp-3p4u.vercel.app)
+[![Source Code](https://img.shields.io/badge/💻-Source_Code-black?style=for-the-badge)](https://github.com/rishabhbhardwaj-dev/CampusSyncERP)
 
-<td align="center">
-<a href="https://github.com/rishabhbhardwaj-dev/CampusSyncERP">
-<img src="https://skillicons.dev/icons?i=github" width="28" alt="GitHub"/>
-</a>
-</td>
+###  AI & Full Stack Developer Portfolio
 
-<td align="center">
-<a href="https://campus-sync-erp-3p4u.vercel.app">
-<img src="https://img.shields.io/badge/Live%20Demo-Visit-blue?style=flat-square" alt="Live Demo"/>
-</a>
-</td>
-</tr>
+Modern developer portfolio showcasing projects, skills, experience, and achievements with a responsive UI and smooth animations.
 
-<tr>
-<td>
+**Tech Stack:** React • Tailwind CSS • Vite • JavaScript
 
-<strong>AI & Full Stack Developer Portfolio</strong>
+[![Live Demo](https://img.shields.io/badge/🚀-Live_Demo-blue?style=for-the-badge)](https://rishabh-portfolio-lac.vercel.app/)
+[![Source Code](https://img.shields.io/badge/💻-Source_Code-black?style=for-the-badge)](https://github.com/rishabhbhardwaj-dev/rishabh-portfolio)
 
-<ul>
-<li>💻 Responsive portfolio showcasing projects and experience</li>
-<li>✨ React, Tailwind CSS, Vite, and modern animations</li>
-</ul>
-
-</td>
-
-<td align="center">
-<a href="https://github.com/rishabhbhardwaj-dev/rishabh-portfolio">
-<img src="https://skillicons.dev/icons?i=github" width="28" alt="GitHub"/>
-</a>
-</td>
-
-<td align="center">
-<a href="https://rishabh-portfolio-lac.vercel.app/">
-<img src="https://img.shields.io/badge/Live%20Demo-Visit-blue?style=flat-square" alt="Live Demo"/>
-</a>
-</td>
-</tr>
-
-</table>
+---
 
 
 
