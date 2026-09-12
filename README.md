@@ -87,47 +87,44 @@
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![Three.js](https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=threedotjs&logoColor=white)
 
-##  Featured Projects
+## 🚀 Projects
 
-###  JARVIS AI
+<table>
+<tr>
+<th>Project</th>
+<th>GitHub</th>
+<th>Live Demo</th>
+</tr>
 
-Real-time AI desktop assistant with:
+<tr>
+<td><strong>JARVIS AI</strong></td>
+<td>
+<a href="https://github.com/rishabhbhardwaj-dev/Jarvis-voice-assistant">💻</a>
+</td>
+<td>—</td>
+</tr>
 
-- Voice command automation
-- Conversational AI
-- Wake word detection
-- System automation
-- Neural-interface dashboard 
+<tr>
+<td><strong>CampusSync ERP</strong></td>
+<td>
+<a href="https://github.com/rishabhbhardwaj-dev/CampusSyncERP">💻</a>
+</td>
+<td>
+<a href="https://campus-sync-erp-3p4u.vercel.app">🚀</a>
+</td>
+</tr>
 
-<!-- end list -->
+<tr>
+<td><strong>AI & Full Stack Developer Portfolio</strong></td>
+<td>
+<a href="https://github.com/rishabhbhardwaj-dev/rishabh-portfolio">💻</a>
+</td>
+<td>
+<a href="https://rishabh-portfolio-lac.vercel.app/">🚀</a>
+</td>
+</tr>
 
-<a href="https://github.com/rishabhbhardwaj-dev/Jarvis-voice-assistant">
-  <img src="https://cdn.simpleicons.org/github/white" width="38" height="38" alt="GitHub Repository"/>
-</a>
-
-
-###  CampusSync ERP
-
-Enterprise-grade college management system featuring:
-
-- Role-based portals for Admin, Faculty, and Students
-- Full-stack React 19, Node.js, and Prisma ORM architecture
-- Comprehensive attendance, grading, and timetable tracking
-- Secure JWT authentication with MySQL database
-
-[![Live Demo](https://img.shields.io/badge/🚀-Live_Demo-blue?style=for-the-badge)](https://campus-sync-erp-3p4u.vercel.app)
-[![Source Code](https://img.shields.io/badge/💻-Source_Code-black?style=for-the-badge)](https://github.com/rishabhbhardwaj-dev/CampusSyncERP)
-
-###  AI & Full Stack Developer Portfolio
-
-Modern developer portfolio showcasing projects, skills, experience, and achievements with a responsive UI and smooth animations.
-
-**Tech Stack:** React • Tailwind CSS • Vite • JavaScript
-
-[![Live Demo](https://img.shields.io/badge/🚀-Live_Demo-blue?style=for-the-badge)](https://rishabh-portfolio-lac.vercel.app/)
-[![Source Code](https://img.shields.io/badge/💻-Source_Code-black?style=for-the-badge)](https://github.com/rishabhbhardwaj-dev/rishabh-portfolio)
-
----
+</table>
 
 
 
