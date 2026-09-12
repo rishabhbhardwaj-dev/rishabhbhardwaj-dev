@@ -99,7 +99,7 @@
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy-liard-delta.vercel.app/?username=rishabhbhardwaj-dev&theme=onedark&row=1&column=6&no-frame=true" />
+  <img src="https://github-profile-trophy-fork-two.vercel.app/?username=rishabhbhardwaj-dev&theme=onedark&row=1&column=6" alt="GitHub Trophies"/>
 </p>
 
 
