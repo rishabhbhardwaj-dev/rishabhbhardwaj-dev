@@ -97,30 +97,75 @@
 </tr>
 
 <tr>
-<td><strong>JARVIS AI</strong></td>
 <td>
-<a href="https://github.com/rishabhbhardwaj-dev/Jarvis-voice-assistant">💻</a>
+
+<strong>JARVIS AI</strong>
+
+<ul>
+<li>🎙️ Voice-activated desktop assistant with wake-word detection</li>
+<li>🧠 Groq AI-powered conversational and screen-aware responses</li>
+<li>🌐 Real-time Three.js neural interface with Flask + SSE</li>
+</ul>
+
 </td>
-<td>—</td>
+
+<td align="center">
+<a href="https://github.com/rishabhbhardwaj-dev/Jarvis-voice-assistant">
+<img src="https://skillicons.dev/icons?i=github" width="28" alt="GitHub"/>
+</a>
+</td>
+
+<td align="center">—</td>
 </tr>
 
 <tr>
-<td><strong>CampusSync ERP</strong></td>
 <td>
-<a href="https://github.com/rishabhbhardwaj-dev/CampusSyncERP">💻</a>
+
+<strong>CampusSync ERP</strong>
+
+<ul>
+<li>🎓 Full-stack college management system with role-based portals</li>
+<li>🔐 JWT authentication and secure access control</li>
+<li>📊 Attendance, grading, fees, notices, and analytics</li>
+</ul>
+
 </td>
-<td>
-<a href="https://campus-sync-erp-3p4u.vercel.app">🚀</a>
+
+<td align="center">
+<a href="https://github.com/rishabhbhardwaj-dev/CampusSyncERP">
+<img src="https://skillicons.dev/icons?i=github" width="28" alt="GitHub"/>
+</a>
+</td>
+
+<td align="center">
+<a href="https://campus-sync-erp-3p4u.vercel.app">
+🚀
+</a>
 </td>
 </tr>
 
 <tr>
-<td><strong>AI & Full Stack Developer Portfolio</strong></td>
 <td>
-<a href="https://github.com/rishabhbhardwaj-dev/rishabh-portfolio">💻</a>
+
+<strong>AI & Full Stack Developer Portfolio</strong>
+
+<ul>
+<li>💻 Responsive portfolio showcasing projects and experience</li>
+<li>✨ React, Tailwind CSS, Vite, and modern animations</li>
+</ul>
+
 </td>
-<td>
-<a href="https://rishabh-portfolio-lac.vercel.app/">🚀</a>
+
+<td align="center">
+<a href="https://github.com/rishabhbhardwaj-dev/rishabh-portfolio">
+<img src="https://skillicons.dev/icons?i=github" width="28" alt="GitHub"/>
+</a>
+</td>
+
+<td align="center">
+<a href="https://rishabh-portfolio-lac.vercel.app/">
+🚀
+</a>
 </td>
 </tr>
 
