@@ -12,12 +12,44 @@
 
 I enjoy building across the stack with **React, Node.js, Python, and AI**, while constantly learning and exploring better ways to engineer software.
 
-## 🌐 Socials
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rishabhbhardwaj-tech/)
-[![GitHub](https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rishabhbhardwaj-dev)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-blue?style=for-the-badge&logo=vercel&logoColor=white)](https://rishabh-portfolio-lac.vercel.app/)
-[![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:officialrishabhbhardwaj@gmail.com)
+## 🌐 Socials
+<table>
+<tr>
+
+<td align="center">
+<a href="https://rishabh-portfolio-lac.vercel.app/">
+<img src="https://img.icons8.com/fluency/48/briefcase.png" width="34"/>
+</a>
+</td>
+
+<td align="center">
+<a href="https://github.com/rishabhbhardwaj-dev">
+<img src="https://skillicons.dev/icons?i=github" width="34"/>
+</a>
+</td>
+
+<td align="center">
+<a href="https://www.linkedin.com/in/rishabhbhardwaj-tech/">
+<img src="https://skillicons.dev/icons?i=linkedin" width="34"/>
+</a>
+</td>
+
+<td align="center">
+<a href="mailto:officialrishabhbhardwaj@gmail.com">
+<img src="https://img.icons8.com/color/48/gmail-new.png" width="34"/>
+</a>
+</td>
+
+</tr>
+</table>
+
+
+
+
+<table>
+<tr>
+<td width="70%" valign="middle">
 
 ## 🛠️ Tech Stack
 
