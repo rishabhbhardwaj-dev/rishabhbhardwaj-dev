@@ -1,3 +1,11 @@
+<p align="center">
+  <img
+    src="https://raw.githubusercontent.com/rishabhbhardwaj-dev/ai-activity-matrix/main/banner.svg"
+    width="100%"
+    alt="Rishabh Bhardwaj Banner"
+  />
+</p>
+
 
 ## 🛠️ Tech Stack
 
