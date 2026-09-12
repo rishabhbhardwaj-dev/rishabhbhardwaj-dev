@@ -1,60 +1,39 @@
-<table width="100%" border="0">
-<tr>
+<p align="center">
+  <svg width="100%" height="220" viewBox="0 0 1200 220"
+       xmlns="http://www.w3.org/2000/svg">
 
-<td width="75%" valign="middle">
+    <defs>
+      <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="0%">
+        <stop offset="0%" />
+        <stop offset="100%" />
+      </linearGradient>
+    </defs>
 
-<h2> Hi, I'm <i>𝑹𝒊𝒔𝒉𝒂𝒃𝒉 𝒃𝒉𝒂𝒓𝒅𝒘𝒂𝒋</i> 👋 </h2> 
+    <rect width="1200" height="220" fill="url(#bg)" />
 
-<p><strong>Full-Stack Developer | AI Application Developer</strong></p>
+    <text x="600" y="90"
+          text-anchor="middle"
+          font-size="48"
+          font-weight="bold"
+          fill="white">
+      Rishabh Bhardwaj
+    </text>
 
-<p>I build web applications and AI-powered solutions focused on solving real-world problems.</p>
+    <text x="600" y="135"
+          text-anchor="middle"
+          font-size="24"
+          fill="white">
+      Full-Stack Developer | AI Application Developer
+    </text>
 
-<p>🎓 B.Tech CSE Graduate (2026)</p>
+    <!-- Animated wave -->
+    <path fill="..." opacity="0.8">
+      ...
+      <animate ... />
+    </path>
 
-<table>
-<tr>
-
-<td align="center">
-<a href="https://rishabh-portfolio-lac.vercel.app/">
-<img src="https://img.icons8.com/fluency/48/briefcase.png" width="30" alt="Portfolio"/>
-</a>
-</td>
-
-<td align="center">
-<a href="https://github.com/rishabhbhardwaj-dev">
-<img src="https://skillicons.dev/icons?i=github" width="30" alt="GitHub"/>
-</a>
-</td>
-
-<td align="center">
-<a href="https://www.linkedin.com/in/rishabhbhardwaj-tech/">
-<img src="https://skillicons.dev/icons?i=linkedin" width="30" alt="LinkedIn"/>
-</a>
-</td>
-
-<td align="center">
-<a href="mailto:officialrishabhbhardwaj@gmail.com">
-<img src="https://img.icons8.com/color/48/gmail-new.png" width="30" alt="Email"/>
-</a>
-</td>
-
-</tr>
-</table>
-
-</td>
-
-<td width="25%" align="right" valign="middle">
-
-<img
-  src="https://raw.githubusercontent.com/rishabhbhardwaj-dev/ai-activity-matrix/main/Rishabh_sw.jpeg"
-  width="180"
-  alt="Rishabh Bhardwaj"
-/>
-
-</td>
-
-</tr>
-</table>
+  </svg>
+</p>
 
 
 
