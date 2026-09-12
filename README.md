@@ -87,88 +87,100 @@
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![Three.js](https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=threedotjs&logoColor=white)
 
-## 🚀 Projects
+## 🚀 Featured Projects
 
 <table>
 <tr>
-<th>Project</th>
-<th>GitHub</th>
-<th>Live Demo</th>
-</tr>
 
-<tr>
-<td>
+<td width="50%" valign="top">
 
-<strong>JARVIS AI</strong>
+<h3>🤖 JARVIS AI</h3>
 
-<ul>
-<li>🎙️ Voice-activated desktop assistant with wake-word detection</li>
-<li>🧠 Groq AI-powered conversational and screen-aware responses</li>
-<li>🌐 Real-time Three.js neural interface with Flask + SSE</li>
-</ul>
+<p>
+AI-powered desktop assistant with voice automation, conversational AI,
+screen awareness, and a real-time 3D neural interface.
+</p>
 
-</td>
+<p>
+<strong>Tech:</strong><br>
+Python • Flask • Groq • Three.js • SSE
+</p>
 
-<td align="center">
 <a href="https://github.com/rishabhbhardwaj-dev/Jarvis-voice-assistant">
 <img src="https://skillicons.dev/icons?i=github" width="28" alt="GitHub"/>
 </a>
-</td>
-
-<td align="center">—</td>
-</tr>
-
-<tr>
-<td>
-
-<strong>CampusSync ERP</strong>
-
-<ul>
-<li>🎓 Full-stack college management system with role-based portals</li>
-<li>🔐 JWT authentication and secure access control</li>
-<li>📊 Attendance, grading, fees, notices, and analytics</li>
-</ul>
 
 </td>
 
-<td align="center">
+<td width="50%" valign="top">
+
+<h3>🎓 CampusSync ERP</h3>
+
+<p>
+Full-stack college management platform with role-based portals,
+attendance, grading, fees, notices, and analytics.
+</p>
+
+<p>
+<strong>Tech:</strong><br>
+React • Node.js • Express • Prisma • MySQL
+</p>
+
 <a href="https://github.com/rishabhbhardwaj-dev/CampusSyncERP">
 <img src="https://skillicons.dev/icons?i=github" width="28" alt="GitHub"/>
 </a>
-</td>
-
-<td align="center">
+&nbsp;&nbsp;
 <a href="https://campus-sync-erp-3p4u.vercel.app">
 <img src="https://img.shields.io/badge/Live%20Demo-Visit-blue?style=flat-square" alt="Live Demo"/>
 </a>
+
 </td>
+
 </tr>
 
 <tr>
-<td>
 
-<strong>AI & Full Stack Developer Portfolio</strong>
+<td width="50%" valign="top">
 
-<ul>
-<li>💻 Responsive portfolio showcasing projects and experience</li>
-<li>✨ React, Tailwind CSS, Vite, and modern animations</li>
-</ul>
+<h3>💻 Developer Portfolio</h3>
 
-</td>
+<p>
+Personal portfolio showcasing projects, skills, experience,
+and achievements with a responsive modern interface.
+</p>
 
-<td align="center">
+<p>
+<strong>Tech:</strong><br>
+React • Tailwind CSS • Vite • JavaScript
+</p>
+
 <a href="https://github.com/rishabhbhardwaj-dev/rishabh-portfolio">
 <img src="https://skillicons.dev/icons?i=github" width="28" alt="GitHub"/>
 </a>
-</td>
-
-<td align="center">
+&nbsp;&nbsp;
 <a href="https://rishabh-portfolio-lac.vercel.app/">
 <img src="https://img.shields.io/badge/Live%20Demo-Visit-blue?style=flat-square" alt="Live Demo"/>
 </a>
-</td>
-</tr>
 
+</td>
+
+<td width="50%" valign="top">
+
+<h3>📚 Edusphere</h3>
+
+<p>
+AI-powered learning platform designed to provide personalized
+learning experiences and intelligent assistance.
+</p>
+
+<p>
+<strong>Tech:</strong><br>
+MERN • FastAPI • AI • Razorpay • Cloudinary
+</p>
+
+</td>
+
+</tr>
 </table>
 
 
