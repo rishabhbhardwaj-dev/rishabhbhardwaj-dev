@@ -139,7 +139,7 @@
 
 <td align="center">
 <a href="https://campus-sync-erp-3p4u.vercel.app">
-🚀
+<img src="https://img.shields.io/badge/Live%20Demo-Visit-blue?style=flat-square" alt="Live Demo"/>
 </a>
 </td>
 </tr>
@@ -164,7 +164,7 @@
 
 <td align="center">
 <a href="https://rishabh-portfolio-lac.vercel.app/">
-🚀
+<img src="https://img.shields.io/badge/Live%20Demo-Visit-blue?style=flat-square" alt="Live Demo"/>
 </a>
 </td>
 </tr>
