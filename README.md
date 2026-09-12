@@ -6,6 +6,14 @@
   />
 </p>
 
+<p align="center">
+  <img
+    src="https://raw.githubusercontent.com/rishabhbhardwaj-dev/ai-activity-matrix/main/contribution_grid_ai_matrix.svg"
+    width="100%"
+    alt="AI Activity Matrix"
+  />
+</p>
+
 ## 👨‍💻 About Me
 
 **Full-Stack & AI Application Developer** with a B.Tech in CSE, passionate about turning ideas into practical products.
