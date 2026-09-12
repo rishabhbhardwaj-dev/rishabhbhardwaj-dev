@@ -96,11 +96,6 @@
 [![GitHub Streak](https://streak-stats.demolab.com/?user=rishabhbhardwaj-dev&theme=dark)](https://github.com/rishabhbhardwaj-dev)
 
 
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy-fork-two.vercel.app/?username=rishabhbhardwaj-dev&theme=onedark&row=1&column=6" alt="GitHub Trophies"/>
-</p>
 
 
 
