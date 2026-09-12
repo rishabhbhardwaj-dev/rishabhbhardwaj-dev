@@ -56,6 +56,13 @@
 </tr>
 </table>
 
+## 🌐 Socials
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Website-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://rishabh-portfolio-lac.vercel.app/)
+[![GitHub](https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rishabhbhardwaj-dev)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rishabhbhardwaj-tech/)
+[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:officialrishabhbhardwaj@gmail.com)
+
 ## 🛠️ Tech Stack
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
