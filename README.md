@@ -101,15 +101,7 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=rishabhbhardwaj-dev&theme=onedark)](https://github.com/rishabhbhardwaj-dev)
 
 
-## 📊 GitHub Activity
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=rishabhbhardwaj-dev&theme=dark" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=rishabhbhardwaj-dev&theme=onedark&row=1&column=6" />
-</p>
 
 
 
