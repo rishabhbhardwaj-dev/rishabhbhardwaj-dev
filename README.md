@@ -98,7 +98,9 @@
 
 ## 🏆 GitHub Trophies
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=rishabhbhardwaj-dev&theme=onedark)](https://github.com/rishabhbhardwaj-dev)
+<p align="center">
+  <img src="https://github-profile-trophy-liard-delta.vercel.app/?username=rishabhbhardwaj-dev&theme=onedark&row=1&column=6&no-frame=true" />
+</p>
 
 
 
