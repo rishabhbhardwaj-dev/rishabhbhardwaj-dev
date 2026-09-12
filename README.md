@@ -56,27 +56,7 @@
 </tr>
 </table>
 
-## 🌐 Socials
 
-<div align="left">
-
-<a href="https://rishabh-portfolio-lac.vercel.app/">
-<img src="https://img.icons8.com/fluency/48/briefcase.png" width="32" alt="Portfolio"/>
-</a>&nbsp;&nbsp;&nbsp;&nbsp;
-
-<a href="https://github.com/rishabhbhardwaj-dev">
-<img src="https://skillicons.dev/icons?i=github" width="32" alt="GitHub"/>
-</a>&nbsp;&nbsp;&nbsp;&nbsp;
-
-<a href="https://www.linkedin.com/in/rishabhbhardwaj-tech/">
-<img src="https://skillicons.dev/icons?i=linkedin" width="32" alt="LinkedIn"/>
-</a>&nbsp;&nbsp;&nbsp;&nbsp;
-
-<a href="mailto:officialrishabhbhardwaj@gmail.com">
-<img src="https://img.icons8.com/color/48/gmail-new.png" width="32" alt="Email"/>
-</a>
-
-</div>
 
 ## 🛠️ Tech Stack
 
