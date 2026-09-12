@@ -58,10 +58,25 @@
 
 ## 🌐 Socials
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Website-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://rishabh-portfolio-lac.vercel.app/)
-[![GitHub](https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rishabhbhardwaj-dev)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rishabhbhardwaj-tech/)
-[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:officialrishabhbhardwaj@gmail.com)
+<div align="left">
+
+<a href="https://rishabh-portfolio-lac.vercel.app/">
+<img src="https://img.icons8.com/fluency/48/briefcase.png" width="32" alt="Portfolio"/>
+</a>&nbsp;&nbsp;&nbsp;&nbsp;
+
+<a href="https://github.com/rishabhbhardwaj-dev">
+<img src="https://skillicons.dev/icons?i=github" width="32" alt="GitHub"/>
+</a>&nbsp;&nbsp;&nbsp;&nbsp;
+
+<a href="https://www.linkedin.com/in/rishabhbhardwaj-tech/">
+<img src="https://skillicons.dev/icons?i=linkedin" width="32" alt="LinkedIn"/>
+</a>&nbsp;&nbsp;&nbsp;&nbsp;
+
+<a href="mailto:officialrishabhbhardwaj@gmail.com">
+<img src="https://img.icons8.com/color/48/gmail-new.png" width="32" alt="Email"/>
+</a>
+
+</div>
 
 ## 🛠️ Tech Stack
 
