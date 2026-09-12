@@ -6,11 +6,13 @@
   />
 </p>
 
+## 👨‍💻 About Me
 
+I'm a **B.Tech CSE graduate** and **Full-Stack & AI Application Developer** focused on building practical software that solves real-world problems.
 
-![Profile Views](https://komarev.com/ghpvc/?username=rishabhbhardwaj-dev&style=for-the-badge&color=blue)
+I enjoy working across the stack — from **React frontends and Node.js/Python backends to databases and AI integrations**.
 
-
+Currently exploring **LLMs, AI-powered applications, intelligent automation, and scalable backend systems** while continuously improving my engineering skills.
 
 ## 🌐 Socials
 
