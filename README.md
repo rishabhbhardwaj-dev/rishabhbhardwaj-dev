@@ -8,14 +8,14 @@
 
 
 
-## 👨‍💻 About Me
+##  About Me
 
 **Full-Stack & AI Application Developer** with a B.Tech in CSE, passionate about turning ideas into practical products.
 
 I enjoy building across the stack with **React, Node.js, Python, and AI**, while constantly learning and exploring better ways to engineer software.
 
 
-## 🌐 Socials
+##  Socials
 <table>
 <tr>
 
@@ -115,7 +115,7 @@ I enjoy building across the stack with **React, Node.js, Python, and AI**, while
 
 
 
-## 🔥 GitHub Streak
+##  GitHub Streak
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=rishabhbhardwaj-dev&theme=dark)](https://github.com/rishabhbhardwaj-dev)
 
