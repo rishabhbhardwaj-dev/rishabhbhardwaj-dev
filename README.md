@@ -142,9 +142,7 @@ Real-time AI desktop assistant with:
 
 <!-- end list -->
 
-<a href="https://github.com/rishabhbhardwaj-dev/Jarvis-voice-assistant">
-  <img src="https://cdn.simpleicons.org/github/white" width="38" height="38" alt="GitHub Repository"/>
-</a>
+[![Source Code](https://img.shields.io/badge/💻-Source_Code-black?style=for-the-badge)](https://github.com/rishabhbhardwaj-dev/Jarvis-voice-assistant)
 
 
 ###  CampusSync ERP
