@@ -140,7 +140,7 @@ I enjoy building across the stack with **React, Node.js, Python, and AI**, while
 
 <ul>
   <li>Voice command automation</li>
-  <li>Conversational AI</li>
+  
   <li>Wake word detection</li>
   <li>System automation</li>
   <li>Neural-interface dashboard</li>
