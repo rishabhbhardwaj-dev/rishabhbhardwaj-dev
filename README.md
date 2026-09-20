@@ -65,7 +65,7 @@ I enjoy building across the stack with **React, Node.js, Python, and AI**, while
 
 
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 #### Languages
 
