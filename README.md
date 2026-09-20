@@ -129,39 +129,15 @@ I enjoy building across the stack with **React, Node.js, Python, and AI**, while
 
 
 ##  Featured Projects
+###  JARVIS AI
 
-<table>
-<tr>
-<td width="55%" valign="top">
+Real-time AI desktop assistant with:
 
-<h3>🤖 JARVIS AI</h3>
-
-<p>Real-time AI desktop assistant with:</p>
-
-<ul>
-  <li>Voice command automation</li>
-  
-  <li>Wake word detection</li>
-  <li>System automation</li>
-  <li>Neural-interface dashboard</li>
-</ul>
-
-<p>
-  <a href="https://github.com/rishabhbhardwaj-dev/Jarvis-voice-assistant">
-    <img src="https://img.shields.io/badge/SOURCE%20CODE-000000?style=for-the-badge&logo=github&logoColor=white" alt="Source Code">
-  </a>
-</p>
-
-</td>
-
-<td width="45%" align="center" valign="middle">
-
-<img src="https://raw.githubusercontent.com/rishabhbhardwaj-dev/ai-activity-matrix/main/Jarvis.png" width="400" alt="JARVIS AI Project Preview">
-
-</td>
-</tr>
-</table>
-
+-  Voice command automation
+-  Conversational AI
+-  Wake word detection
+-  System automation
+-  Neural-interface dashboard
 <!-- end list -->
 
 [![Source Code](https://img.shields.io/badge/💻-Source_Code-black?style=for-the-badge)](https://github.com/rishabhbhardwaj-dev/Jarvis-voice-assistant)
