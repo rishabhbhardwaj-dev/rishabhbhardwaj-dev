@@ -117,9 +117,9 @@ I enjoy building across the stack with **React, Node.js, Python, and AI**, while
 
 ## 🔥 GitHub Streak
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=rishabhbhardwaj-dev&theme=dark&timezone=Asia%2FKolkata)](https://github.com/rishabhbhardwaj-dev)
 
 
+[![GitHub Streak](https://streak-stats.demolab.com/?user=rishabhbhardwaj-dev&theme=dark)](https://github.com/rishabhbhardwaj-dev)
 
 
 
