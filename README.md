@@ -54,14 +54,14 @@ I enjoy building across the stack with **React, Node.js, Python, and AI**, while
 <td width="70%" valign="middle">
 
 
+## 🔥 GitHub Streak
 
-<p align="center">
-  <img
-    src="https://raw.githubusercontent.com/rishabhbhardwaj-dev/ai-activity-matrix/main/contribution_grid_ai_matrix.svg"
-    width="100%"
-    alt="AI Activity Matrix"
-  />
-</p>
+
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=rishabhbhardwaj-dev&theme=dark)](https://github.com/rishabhbhardwaj-dev)
+
+
+
 
 
 
@@ -115,12 +115,13 @@ I enjoy building across the stack with **React, Node.js, Python, and AI**, while
 
 
 
-## 🔥 GitHub Streak
-
-
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=rishabhbhardwaj-dev&theme=dark)](https://github.com/rishabhbhardwaj-dev)
-
+<p align="center">
+  <img
+    src="https://raw.githubusercontent.com/rishabhbhardwaj-dev/ai-activity-matrix/main/contribution_grid_ai_matrix.svg"
+    width="100%"
+    alt="AI Activity Matrix"
+  />
+</p>
 
 
 
