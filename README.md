@@ -8,7 +8,7 @@
 
 
 
-##  About Me
+##  **About Me**
 
 **Full-Stack & AI Application Developer** with a B.Tech in CSE, passionate about turning ideas into practical products.
 
