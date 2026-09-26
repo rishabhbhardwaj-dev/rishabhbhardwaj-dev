@@ -15,7 +15,7 @@
 **.** I enjoy building across the stack with **React, Node.js, Python, and AI**, while constantly learning and exploring better ways to engineer software.
 
 
-## _Socials_
+## _Socials__
 <table>
 <tr>
 
