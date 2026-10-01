@@ -162,10 +162,7 @@ Modern developer portfolio showcasing projects, skills, experience, and achievem
 
 ---
 
-<!-- Social Badges -->
-![Portfolio](https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=vercel&logoColor=white)
-![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)
-![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)
+
 
 <!-- Dynamic Stats -->
 ![Followers](https://img.shields.io/github/followers/rishabhbhardwaj-dev?style=social&label=Follow)
