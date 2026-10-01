@@ -162,4 +162,23 @@ Modern developer portfolio showcasing projects, skills, experience, and achievem
 
 ---
 
+<!-- Social Badges -->
+![Portfolio](https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=vercel&logoColor=white)
+![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)
+![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)
+
+<!-- Dynamic Stats -->
+![Followers](https://img.shields.io/github/followers/rishabhbhardwaj-dev?style=social&label=Follow)
+![Stars](https://img.shields.io/github/stars/rishabhbhardwaj-dev?style=social)
+
+<!-- Skill Icons Row -->
+![Skills](https://skillicons.dev/icons?i=python,react,nodedotjs,express,mysql,mongodb,prisma,threejs,docker,vercel&perline=5)
+---
+<!-- Dynamic Repo Badges -->
+![Stars](https://img.shields.io/github/stars/rishabhbhardwaj-dev/CampusSyncERP?style=for-the-badge)
+![Forks](https://img.shields.io/github/forks/rishabhbhardwaj-dev/CampusSyncERP?style=for-the-badge)
+![Last Commit](https://img.shields.io/github/last-commit/rishabhbhardwaj-dev/CampusSyncERP?style=for-the-badge)
+![Repo Size](https://img.shields.io/github/repo-size/rishabhbhardwaj-dev/CampusSyncERP?style=for-the-badge)
+![License](https://img.shields.io/github/license/rishabhbhardwaj-dev/CampusSyncERP?style=for-the-badge)
+
 ⭐ Passionate about building impactful software and intelligent applications.
