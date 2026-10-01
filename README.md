@@ -168,8 +168,7 @@ Modern developer portfolio showcasing projects, skills, experience, and achievem
 ![Followers](https://img.shields.io/github/followers/rishabhbhardwaj-dev?style=social&label=Follow)
 ![Stars](https://img.shields.io/github/stars/rishabhbhardwaj-dev?style=social)
 
-<!-- Skill Icons Row -->
-![Skills](https://skillicons.dev/icons?i=python,react,nodedotjs,express,mysql,mongodb,prisma,threejs,docker,vercel&perline=5)
+
 ---
 <!-- Dynamic Repo Badges -->
 ![Stars](https://img.shields.io/github/stars/rishabhbhardwaj-dev/CampusSyncERP?style=for-the-badge)
