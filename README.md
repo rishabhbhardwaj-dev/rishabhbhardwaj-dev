@@ -164,17 +164,5 @@ Modern developer portfolio showcasing projects, skills, experience, and achievem
 
 
 
-<!-- Dynamic Stats -->
-![Followers](https://img.shields.io/github/followers/rishabhbhardwaj-dev?style=social&label=Follow)
-![Stars](https://img.shields.io/github/stars/rishabhbhardwaj-dev?style=social)
-
-
----
-<!-- Dynamic Repo Badges -->
-![Stars](https://img.shields.io/github/stars/rishabhbhardwaj-dev/CampusSyncERP?style=for-the-badge)
-![Forks](https://img.shields.io/github/forks/rishabhbhardwaj-dev/CampusSyncERP?style=for-the-badge)
-![Last Commit](https://img.shields.io/github/last-commit/rishabhbhardwaj-dev/CampusSyncERP?style=for-the-badge)
-![Repo Size](https://img.shields.io/github/repo-size/rishabhbhardwaj-dev/CampusSyncERP?style=for-the-badge)
-![License](https://img.shields.io/github/license/rishabhbhardwaj-dev/CampusSyncERP?style=for-the-badge)
 
 ⭐ Passionate about building impactful software and intelligent applications.
