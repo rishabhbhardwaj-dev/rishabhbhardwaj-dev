@@ -18,35 +18,10 @@
 
 ## __Socials__
 
-<table>
-<tr>
-
-<td align="center">
-<a href="https://rishabh-portfolio-lac.vercel.app/">
-<img src="https://img.icons8.com/fluency/48/briefcase.png" width="34" alt="Portfolio"/>
-</a>
-</td>
-
-<td align="center">
-<a href="https://github.com/rishabhbhardwaj-dev">
-<img src="https://skillicons.dev/icons?i=github" width="34" alt="GitHub"/>
-</a>
-</td>
-
-<td align="center">
-<a href="https://www.linkedin.com/in/rishabhbhardwaj-tech/">
-<img src="https://skillicons.dev/icons?i=linkedin" width="34" alt="LinkedIn"/>
-</a>
-</td>
-
-<td align="center">
-<a href="mailto:officialrishabhbhardwaj@gmail.com">
-<img src="https://img.icons8.com/color/48/gmail-new.png" width="34" alt="Email"/>
-</a>
-</td>
-
-</tr>
-</table>
+[![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rishabhbhardwaj-tech/)
+[![GitHub Badge](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/rishabhbhardwaj-dev)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:officialrishabhbhardwaj@gmail.com)
+[![Portfolio Badge](https://img.shields.io/badge/-Portfolio-7c8795?style=flat-square&logo=googlechrome&logoColor=white)](https://rishabh-portfolio-lac.vercel.app/)
 
 ---
 
