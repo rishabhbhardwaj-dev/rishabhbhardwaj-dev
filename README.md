@@ -1,5 +1,9 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/rishabhbhardwaj-dev/ai-activity-matrix/main/banner.svg" alt="Rishabh Bhardwaj banner" width="100%" />
+  <img
+    src="https://raw.githubusercontent.com/rishabhbhardwaj-dev/ai-activity-matrix/main/banner.svg"
+    alt="Rishabh Bhardwaj"
+    width="100%"
+  />
 </p>
 
 <div align="center">
@@ -13,32 +17,38 @@
 
 # Rishabh Bhardwaj
 
-AI & Full Stack Developer building products that blend engineering discipline with practical product thinking.
+**AI & Full Stack Developer**
 
-I design and build software that feels deliberate: interfaces that are clean, systems that are dependable, and AI experiences that are useful rather than decorative. My work sits at the intersection of modern web engineering, machine intelligence, and real-world product execution.
+I build full-stack applications and AI-powered systems, with a focus on turning ideas into software that is actually usable.
 
-From full-stack applications to intelligent automation, I enjoy turning ideas into functional products that people can actually use.
+My work spans frontend architecture, backend services, databases, APIs, authentication, deployment, and AI integration. I enjoy working across the stack because many of the interesting engineering problems sit between these layers rather than inside a single technology.
 
----
-
-## What I build
-
-- Full-stack web applications with strong frontend detail and backend structure
-- AI-powered tools and assistants for productivity and automation
-- Product experiences that feel polished, intuitive, and fast
-- Scalable, maintainable systems with real business intent behind them
+I am particularly interested in **AI-assisted applications, intelligent automation, and product-oriented web systems**.
 
 ---
 
-## Stack
+## What I work on
+
+- Full-stack applications with React, Node.js, and modern backend architectures
+- AI applications using LLMs, APIs, automation, and conversational interfaces
+- REST APIs and service-oriented backend systems
+- Authentication, authorization, data modeling, and database design
+- Responsive interfaces with attention to usability and interaction
+- Deployment, debugging, and production-oriented development
+
+---
+
+## Technology
 
 ### Languages
+
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ### Frontend
+
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
@@ -46,12 +56,14 @@ From full-stack applications to intelligent automation, I enjoy turning ideas in
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 ### Backend
+
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 
 ### Data & AI
+
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
@@ -59,38 +71,47 @@ From full-stack applications to intelligent automation, I enjoy turning ideas in
 ![Google Gemini](https://img.shields.io/badge/Google_Gemini-4285F4?style=for-the-badge&logo=googlegemini&logoColor=white)
 ![Groq](https://img.shields.io/badge/Groq-000000?style=for-the-badge&logo=groq&logoColor=white)
 
-### Tools
+### Engineering & Deployment
+
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 
 ---
 
-## Featured work
+## Selected Work
 
 ### JARVIS AI
-Voice-driven AI assistant with a focus on interaction, automation, and system-level utility.
 
-Highlights:
-- Voice-command workflows
-- Conversational AI interactions
-- Wake word automation
-- Intelligent system control
-- Productivity-centered user experience
+A desktop voice assistant built around conversational AI, speech recognition, automation, and system interaction.
+
+The project explores how an LLM can act as an interface between natural-language commands and real computer actions rather than functioning only as a chatbot.
+
+**Core areas**
+- Voice command processing
+- Conversational AI
+- Speech recognition
+- Automation workflows
+- System-level actions
+- Server-sent events for real-time communication
 
 [![Source Code](https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rishabhbhardwaj-dev/Jarvis-voice-assistant)
 
 ---
 
 ### CampusSync ERP
-A full-stack campus management platform designed for admin, faculty, and student operations.
 
-Highlights:
-- Role-based portals
-- Attendance, grading, and timetable workflows
-- Secure authentication
-- MySQL-backed architecture
-- React + Node.js + Prisma stack
+A full-stack college management platform built around role-based access and structured academic workflows.
+
+The system brings together student management, attendance, academic records, authentication, and role-specific interfaces into a single application.
+
+**Core areas**
+- Role-based access control
+- Student and academic management
+- Attendance workflows
+- Authentication and authorization
+- MySQL database architecture
+- React + Node.js + Express + Prisma
 
 [![Live Demo](https://img.shields.io/badge/Live_Demo-0A84FF?style=for-the-badge&logo=vercel&logoColor=white)](https://campus-sync-erp.vercel.app)
 [![Source Code](https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rishabhbhardwaj-dev/CampusSyncERP)
@@ -98,39 +119,55 @@ Highlights:
 ---
 
 ### Portfolio
-This repository itself is the home of my portfolio — a curated space that reflects the way I think about product design, engineering, and digital presence.
 
-Built with:
+My personal portfolio is built as a product rather than a template: a place to present projects, technical work, and the way I approach software development.
+
+**Built with**
 - React
-- Tailwind CSS
 - Vite
-- Modern responsive UI patterns
+- Tailwind CSS
+- Responsive component architecture
 
 [![Live Demo](https://img.shields.io/badge/Live_Demo-0A84FF?style=for-the-badge&logo=vercel&logoColor=white)](https://rishabh-portfolio-lac.vercel.app/)
 [![Source Code](https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rishabhbhardwaj-dev/rishabh-portfolio)
 
 ---
 
-## Philosophy
+## Engineering Approach
 
-I care about the quality of the outcome more than the quantity of tech stacked into a project.
+I care about the reasoning behind a system as much as the implementation.
 
-Good software is not only functional — it is:
-- understandable
-- thoughtfully designed
-- built for real human use
-- maintainable under pressure
-- useful beyond the first demo
+When building a project, I generally think about:
 
-That principle guides how I build products, write code, and approach problem-solving.
+- **Architecture** — how the pieces fit together before adding complexity
+- **Interfaces** — how users interact with the system, not just how it looks
+- **Data** — how information is modeled, validated, stored, and accessed
+- **Reliability** — what happens when things fail or assumptions are wrong
+- **Maintainability** — whether the next change will be straightforward or painful
+- **Deployment** — how the application behaves outside the local development environment
+
+I would rather build a smaller system that is understood and maintainable than add technologies simply to make a project look sophisticated.
 
 ---
 
-## GitHub activity
+## Currently
+
+I'm focused on building stronger production-level skills across:
+
+**Full-Stack Development · AI Applications · Backend Engineering · System Design**
+
+I'm particularly interested in the space where traditional software engineering meets practical AI systems.
+
+---
+
+## GitHub Activity
 
 <p align="center">
   <a href="https://github.com/rishabhbhardwaj-dev">
-    <img src="https://streak-stats.demolab.com/?user=rishabhbhardwaj-dev&theme=dark" alt="GitHub streak stats" />
+    <img
+      src="https://streak-stats.demolab.com/?user=rishabhbhardwaj-dev&theme=dark"
+      alt="GitHub contribution streak"
+    />
   </a>
 </p>
 
@@ -138,13 +175,22 @@ That principle guides how I build products, write code, and approach problem-sol
 
 ## Connect
 
-If you are building something meaningful, solving a difficult problem, or looking for a developer who can move from idea to execution, I’d be glad to connect.
+I'm always interested in interesting engineering problems, useful products, and opportunities to build things that solve actual problems.
 
-- LinkedIn: https://www.linkedin.com/in/rishabhbhardwaj-tech/
-- GitHub: https://github.com/rishabhbhardwaj-dev
-- Portfolio: https://rishabh-portfolio-lac.vercel.app/
-- Email: officialrishabhbhardwaj@gmail.com
+**LinkedIn**  
+https://www.linkedin.com/in/rishabhbhardwaj-tech/
+
+**GitHub**  
+https://github.com/rishabhbhardwaj-dev
+
+**Portfolio**  
+https://rishabh-portfolio-lac.vercel.app/
+
+**Email**  
+officialrishabhbhardwaj@gmail.com
 
 ---
 
-Built with clarity, curiosity, and intent.
+<p align="center">
+  <sub>Build deliberately. Learn continuously. Ship useful software.</sub>
+</p>
