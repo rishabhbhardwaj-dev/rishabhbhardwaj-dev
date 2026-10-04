@@ -19,22 +19,19 @@
 
 **AI & Full Stack Developer**
 
-I build full-stack applications and AI-powered systems, with a focus on turning ideas into software that is actually usable.
+I build full-stack applications and AI-powered applications. My work covers frontend, backend, databases, APIs, authentication, deployment, and AI integration.
 
-My work spans frontend architecture, backend services, databases, APIs, authentication, deployment, and AI integration. I enjoy working across the stack because many of the interesting engineering problems sit between these layers rather than inside a single technology.
-
-I am particularly interested in **AI-assisted applications, intelligent automation, and product-oriented web systems**.
+I'm interested in practical AI applications, such as conversational interfaces and automation.
 
 ---
 
 ## What I work on
 
-- Full-stack applications with React, Node.js, and modern backend architectures
-- AI applications using LLMs, APIs, automation, and conversational interfaces
-- REST APIs and service-oriented backend systems
-- Authentication, authorization, data modeling, and database design
-- Responsive interfaces with attention to usability and interaction
-- Deployment, debugging, and production-oriented development
+- Full-stack web applications with React and Node.js
+- Backend services and REST APIs
+- Authentication, authorization, and database design
+- AI applications using LLM APIs, voice interfaces, and automation
+- Deployment and debugging
 
 ---
 
@@ -62,16 +59,19 @@ I am particularly interested in **AI-assisted applications, intelligent automati
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 
-### Data & AI
+### Databases
 
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
+
+### AI APIs
+
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
 ![Google Gemini](https://img.shields.io/badge/Google_Gemini-4285F4?style=for-the-badge&logo=googlegemini&logoColor=white)
 ![Groq](https://img.shields.io/badge/Groq-000000?style=for-the-badge&logo=groq&logoColor=white)
 
-### Engineering & Deployment
+### Tools & Deployment
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
@@ -83,15 +83,11 @@ I am particularly interested in **AI-assisted applications, intelligent automati
 
 ### JARVIS AI
 
-A desktop voice assistant built around conversational AI, speech recognition, automation, and system interaction.
-
-The project explores how an LLM can act as an interface between natural-language commands and real computer actions rather than functioning only as a chatbot.
+A desktop voice assistant combining speech recognition, LLM-based responses, and automation workflows.
 
 **Core areas**
 - Voice command processing
-- Conversational AI
-- Speech recognition
-- Automation workflows
+- Speech recognition and conversational AI
 - System-level actions
 - Server-sent events for real-time communication
 
@@ -101,17 +97,12 @@ The project explores how an LLM can act as an interface between natural-language
 
 ### CampusSync ERP
 
-A full-stack college management platform built around role-based access and structured academic workflows.
+A full-stack college management system covering student management, attendance, and academic records, with role-based access.
 
-The system brings together student management, attendance, academic records, authentication, and role-specific interfaces into a single application.
-
-**Core areas**
-- Role-based access control
-- Student and academic management
-- Attendance workflows
-- Authentication and authorization
-- MySQL database architecture
-- React + Node.js + Express + Prisma
+**Built with**
+- React, Node.js, Express, Prisma
+- MySQL
+- Authentication and role-based access control
 
 [![Live Demo](https://img.shields.io/badge/Live_Demo-0A84FF?style=for-the-badge&logo=vercel&logoColor=white)](https://campus-sync-erp.vercel.app)
 [![Source Code](https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rishabhbhardwaj-dev/CampusSyncERP)
@@ -120,13 +111,12 @@ The system brings together student management, attendance, academic records, aut
 
 ### Portfolio
 
-My personal portfolio is built as a product rather than a template: a place to present projects, technical work, and the way I approach software development.
+My personal portfolio site, with project details and links.
 
 **Built with**
-- React
-- Vite
+- React and Vite
 - Tailwind CSS
-- Responsive component architecture
+- Responsive component structure
 
 [![Live Demo](https://img.shields.io/badge/Live_Demo-0A84FF?style=for-the-badge&logo=vercel&logoColor=white)](https://rishabh-portfolio-lac.vercel.app/)
 [![Source Code](https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rishabhbhardwaj-dev/rishabh-portfolio)
@@ -135,28 +125,18 @@ My personal portfolio is built as a product rather than a template: a place to p
 
 ## Engineering Approach
 
-I care about the reasoning behind a system as much as the implementation.
+I try to keep systems understandable, avoid unnecessary complexity, and consider how an application behaves beyond the local development environment.
 
-When building a project, I generally think about:
-
-- **Architecture** — how the pieces fit together before adding complexity
-- **Interfaces** — how users interact with the system, not just how it looks
-- **Data** — how information is modeled, validated, stored, and accessed
-- **Reliability** — what happens when things fail or assumptions are wrong
-- **Maintainability** — whether the next change will be straightforward or painful
-- **Deployment** — how the application behaves outside the local development environment
-
-I would rather build a smaller system that is understood and maintainable than add technologies simply to make a project look sophisticated.
+- Design the architecture before adding features
+- Model and validate data carefully
+- Plan for failure cases
+- Keep code easy to change
 
 ---
 
 ## Currently
 
-I'm focused on building stronger production-level skills across:
-
-**Full-Stack Development · AI Applications · Backend Engineering · System Design**
-
-I'm particularly interested in the space where traditional software engineering meets practical AI systems.
+Focusing on full-stack development, backend engineering, AI applications, and system design.
 
 ---
 
@@ -175,22 +155,7 @@ I'm particularly interested in the space where traditional software engineering 
 
 ## Connect
 
-I'm always interested in interesting engineering problems, useful products, and opportunities to build things that solve actual problems.
-
-**LinkedIn**  
-https://www.linkedin.com/in/rishabhbhardwaj-tech/
-
-**GitHub**  
-https://github.com/rishabhbhardwaj-dev
-
-**Portfolio**  
-https://rishabh-portfolio-lac.vercel.app/
-
-**Email**  
-officialrishabhbhardwaj@gmail.com
-
----
-
-<p align="center">
-  <sub>Build deliberately. Learn continuously. Ship useful software.</sub>
-</p>
+- LinkedIn: https://www.linkedin.com/in/rishabhbhardwaj-tech/
+- GitHub: https://github.com/rishabhbhardwaj-dev
+- Portfolio: https://rishabh-portfolio-lac.vercel.app/
+- Email: officialrishabhbhardwaj@gmail.com
