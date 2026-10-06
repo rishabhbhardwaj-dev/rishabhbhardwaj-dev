@@ -151,8 +151,6 @@ Focusing on full-stack development, backend engineering, AI applications, and sy
   </a>
 </p>
 
----
-
 ## Connect
 
 - LinkedIn: https://www.linkedin.com/in/rishabhbhardwaj-tech/
