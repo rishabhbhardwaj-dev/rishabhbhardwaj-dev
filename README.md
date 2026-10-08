@@ -35,7 +35,7 @@ I'm interested in practical AI applications, such as conversational interfaces a
 
 ---
 
-## Technology
+## Technology.
 
 ### Languages
 
