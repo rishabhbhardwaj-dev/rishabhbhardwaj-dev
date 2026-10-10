@@ -1,6 +1,6 @@
 <p align="center">
   <img
-    src="https://github.com/rishabhbhardwaj-dev/ai-activity-matrix/blob/main/kado-rishabhbhardwaj-dev-github.png"
+    src="https://github.com/rishabhbhardwaj-dev/ai-activity-matrix/blob/main/banner.svg"
     alt="Rishabh Bhardwaj"
     width="100%"
   />
