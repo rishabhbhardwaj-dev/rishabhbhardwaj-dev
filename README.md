@@ -31,7 +31,7 @@ I'm interested in practical AI applications, such as conversational interfaces a
 - Backend services and REST APIs
 - Authentication, authorization, and database design
 - AI applications using LLM APIs, voice interfaces, and automation
-- Deployment and debugging
+- Deployment and debugging.
 
 ---
 
