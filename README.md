@@ -17,7 +17,7 @@
 
 # Rishabh Bhardwaj
 
-**_AI & Full Stack Developer_**
+**AI & Full Stack Developer**
 
 I build full-stack applications and AI-powered applications. My work covers frontend, backend, databases, APIs, authentication, deployment, and AI integration.
 
